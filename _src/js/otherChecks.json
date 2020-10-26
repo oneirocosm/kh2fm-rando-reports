@@ -1,0 +1,1053 @@
+{
+    "garden-of-assemblage": [
+
+    ],
+    "simulated-twilight-town": [
+        {
+            "description": "Leave the Usual Spot on Day 2",
+            "replaces": "Twilight Town Map",
+            "type": "Popup",
+            "gameId": "11CE0636",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet at the Station Plaza on Day 2",
+            "replaces": "Munny Pouch (Olette)",
+            "type": "Popup",
+            "gameId": "11CE0606",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Station of Serenity Dusk Fight",
+            "replaces": "Aerial Recovery",
+            "type": "Bonus",
+            "gameId": "21D10FA8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Twilight Thorn Fight",
+            "replaces": "Guard",
+            "type": "Bonus",
+            "gameId": "21D10CB8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Axel 1 Fight",
+            "replaces": "Scan",
+            "type": "Bonus",
+            "gameId": "21D11278",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Win the Seifer Fight (Check 1)",
+            "replaces": "Championship Belt",
+            "type": "Popup",
+            "gameId": "11CE0612",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Lose the Setzer Fight (Check 1)",
+            "replaces": "Medal",
+            "type": "Popup",
+            "gameId": "11CE061E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete the Setzer Fight (Check 2)",
+            "replaces": "The Struggle Trophy",
+            "type": "Popup",
+            "gameId": "11CE062A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Enter the White Room in the Mansion (Check 1)",
+            "replaces": "Namine's Sketches",
+            "type": "Popup",
+            "gameId": "11CE0642",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Enter the White Room in the Mansion (Check 2)",
+            "replaces": "Mansion Map",
+            "type": "Popup",
+            "gameId": "11CE064E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Roxas Fight",
+            "replaces": "Magic Boost",
+            "type": "Popup",
+            "gameId": "11CE0B0A",
+            "enabledBy": "Data Organization XIII"
+        }
+
+    ],
+    "twilight-town": [
+        {
+            "description": "Station Plaza Nobody Fight (Check 1)",
+            "replaces": "Munny Pouch (Mickey)",
+            "type": "Popup",
+            "gameId": "11CE065A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Station Plaza Nobody Fight (Check 2)",
+            "replaces": "Munny Pouch (Mickey)",
+            "type": "Popup",
+            "gameId": "11CE0666",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Station Plaza Nobody Fight (Check 3)",
+            "replaces": "Secret Ansem Report 2",
+            "type": "Popup",
+            "gameId": "11CE09AE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Receive New Clothes from the Three Good Fairies (Check 1)",
+            "replaces": "Star Seeker",
+            "type": "Popup",
+            "gameId": "11CE0672",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Receive New Clothes from the Three Good Fairies (Check 2)",
+            "replaces": "Valor Form",
+            "type": "Popup",
+            "gameId": "11CE067E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Sandlot Nobody Fight",
+            "replaces": "Seifer's Trophy",
+            "type": "Popup",
+            "gameId": "11CE07E6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet Hayner, Pence, and Olette at the Station (Check 1)",
+            "replaces": "Oathkeeper",
+            "type": "Popup",
+            "gameId": "11CE07F2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet Hayner, Pence, and Olette at the Station (Check 2)",
+            "replaces": "Limit Form",
+            "type": "Popup",
+            "gameId": "11CE07FE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Enter Simulated Twilight Town from the Basement",
+            "replaces": "Secret Ansem Report 10",
+            "type": "Popup",
+            "gameId": "11CE0A0E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Betwixt and Between Nobodies",
+            "replaces": "Slapshot",
+            "type": "Bonus",
+            "gameId": "21D110E8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Betwixt and Between Nobody Fight",
+            "replaces": "Bond of Flame",
+            "type": "Popup",
+            "gameId": "11CE0966",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Axel Fight",
+            "replaces": "Magic Boost",
+            "type": "Popup",
+            "gameId": "11CE0ACE",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "radiant-garden": [
+        {
+            "description": "Borough Nobody Fight",
+            "replaces": "Marketplace Map",
+            "type": "Popup",
+            "gameId": "11CE068A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Enter Merlin's House (Check 1)",
+            "replaces": "Membership Card",
+            "type": "Popup",
+            "gameId": "11CE0696",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Enter Merlin's House (Check 2)",
+            "replaces": "Blizzard Element",
+            "type": "Popup",
+            "gameId": "11CE06A2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Bailey Nobodies",
+            "replaces": "Fire Element",
+            "type": "Bonus",
+            "gameId": "21D10E98",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Bailey Nobody Fight (Check 1)",
+            "replaces": "Secret Ansem Report 7",
+            "type": "Popup",
+            "gameId": "11CE09EA",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Bailey Nobody Fight (Check 2)",
+            "replaces": "Baseball Charm",
+            "type": "Popup",
+            "gameId": "11CE0702",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Read DTD Password Hint (Check 1)",
+            "replaces": "Master Form",
+            "type": "Popup",
+            "gameId": "11CE080A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Read DTD Password Hint (Check 2)",
+            "replaces": "Sleeping Lion",
+            "type": "Popup",
+            "gameId": "11CE0936",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Demyx Fight",
+            "replaces": "Blizzard Element",
+            "type": "Bonus",
+            "gameId": "21D10BA8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Final Fantasy Fights",
+            "replaces": "Cure Element",
+            "type": "Popup",
+            "gameId": "11CE0822",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "1000 Heartless Fight",
+            "replaces": "Guard Break",
+            "type": "Bonus",
+            "gameId": "21D11068",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "1000 Heartless Fight (Check 1)",
+            "replaces": "Secret Ansem Report 1",
+            "type": "Popup",
+            "gameId": "11CE09A2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "1000 Heartless Fight (Check 2)",
+            "replaces": "Ice Cream",
+            "type": "Popup",
+            "gameId": "11CE082E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "1000 Heartless Fight (Check 3)",
+            "replaces": "Picture",
+            "type": "Popup",
+            "gameId": "11CE083A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Talk to Mushroom XIII (Check 1)",
+            "replaces": "Proof of Peace",
+            "type": "Popup",
+            "gameId": "11CE0B3A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Talk to Mushroom XIII (Check 2)",
+            "replaces": "Winner's Proof",
+            "type": "Popup",
+            "gameId": "11CE0B2E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Sephiroth Fight",
+            "replaces": "Fenrir",
+            "type": "Popup",
+            "gameId": "11CE0942",
+            "enabledBy": "Sephiroth"
+        },
+        {
+            "description": "Data Demyx Fight",
+            "replaces": "AP Boost",
+            "type": "Popup",
+            "gameId": "11CE0AB6",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "beasts-castle": [
+        {
+            "description": "Thresholder Fight",
+            "replaces": "Upper Slash",
+            "type": "Bonus",
+            "gameId": "21D10758",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Dark Thorn Fight",
+            "replaces": "Retaliating Slash",
+            "type": "Bonus",
+            "gameId": "21D10788",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Dark Thorn Fight",
+            "replaces": "Cure Element",
+            "type": "Popup",
+            "gameId": "11CE06F6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Talk to Beast after the Rose is Stolen (Check 1)",
+            "replaces": "Rumbling Rose",
+            "type": "Popup",
+            "gameId": "11CE0852",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Talk to Beast after the Rose is Stolen (Check 2)",
+            "replaces": "Castle Walls Map",
+            "type": "Popup",
+            "gameId": "11CE085E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Xaldin Fight",
+            "replaces": "Reflect Element",
+            "type": "Bonus",
+            "gameId": "21D107C8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Xaldin Fight (Check 1)",
+            "replaces": "Secret Ansem Report 4",
+            "type": "Popup",
+            "gameId": "11CE09C6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Xaldin Fight",
+            "replaces": "Defense Boost",
+            "type": "Popup",
+            "gameId": "11CE0AC2",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "olympus-coliseum": [
+        {
+            "description": "Cerberus",
+            "replaces": "Counterguard",
+            "type": "Bonus",
+            "gameId": "21D10808",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet Hercules at the Coliseum",
+            "replaces": "Coliseum Map",
+            "type": "Popup",
+            "gameId": "11CE070E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Phil's Training (Maniac)",
+            "replaces": "Aerial Dive",
+            "type": "Bonus",
+            "gameId": "21D10FE8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Demyx Fight (Check 1)",
+            "replaces": "Olympus Stone",
+            "type": "Popup",
+            "gameId": "11CE071A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Demyx Fight (Check 2)",
+            "replaces": "Secret Ansem Report 5",
+            "type": "Popup",
+            "gameId": "11CE09D2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Pete Fight",
+            "replaces": "Trinity Limit",
+            "type": "Bonus",
+            "gameId": "21D10828",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hydra Fight",
+            "replaces": "Thunder Element",
+            "type": "Bonus",
+            "gameId": "21D10858",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hydra Fight",
+            "replaces": "Hero's Crest",
+            "type": "Popup",
+            "gameId": "11CE0726",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hades' Chamber Nobody Fight",
+            "replaces": "Auron's Statue",
+            "type": "Popup",
+            "gameId": "11CE0882",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hades Fight",
+            "replaces": "Magnet Burst",
+            "type": "Bonus",
+            "gameId": "21D10888",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hades Fight",
+            "replaces": "Guardian Soul",
+            "type": "Popup",
+            "gameId": "11CE088E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Absent Silhouette Zexion (Check 1)",
+            "replaces": "Book of Shadows",
+            "type": "Popup",
+            "gameId": "11CE0A56",
+            "enabledBy": "Absent Silhouettes"
+        },
+        {
+            "description": "Absent Silhouette Zexion (Check 2) or Data Zexion",
+            "replaces": "Lost Illusion",
+            "type": "Popup",
+            "gameId": "11CE0A92",
+            "enabledBy": "Data Organization XIII"
+        },
+        {
+            "description": "Pain & Panic Cup (Check 1)",
+            "replaces": "Protect Belt",
+            "type": "Popup",
+            "gameId": "11CE073E",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Pain and Panic Cup (Check 2)",
+            "replaces": "Serenity Gem",
+            "type": "Popup",
+            "gameId": "11CE074A",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Cerberus Cup (Check 1)",
+            "replaces": "Rising Dragon",
+            "type": "Popup",
+            "gameId": "11CE07CE",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Cerberus Cup (Check 2)",
+            "replaces": "Serenity Crystal",
+            "type": "Popup",
+            "gameId": "11CE07DA",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Titan Cup (Check 1)",
+            "replaces": "Genji Shield",
+            "type": "Popup",
+            "gameId": "11CE089A",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Titan Cup (Check 2)",
+            "replaces": "Skillful Ring",
+            "type": "Popup",
+            "gameId": "11CE08A6",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Goddess of Fate (Check 1)",
+            "replaces": "Fatal Crest",
+            "type": "Popup",
+            "gameId": "11CE094E",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Goddess of Fate (Check 2)",
+            "replaces": "Orichalcum+",
+            "type": "Popup",
+            "gameId": "11CE095A",
+            "enabledBy": "Olympus Cups"
+        },
+        {
+            "description": "Hades Cup",
+            "replaces": "Hades Cup Trophy",
+            "type": "Popup",
+            "gameId": "11CE0996",
+            "enabledBy": "Hades Cup"
+        }
+    ],
+    "agrabah": [
+        {
+            "description": "Agrabah Heartless Fight",
+            "replaces": "Agrabah Map",
+            "type": "Popup",
+            "gameId": "11CE0792",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Abu Escort Mission",
+            "replaces": "Summon Boost",
+            "type": "Bonus",
+            "gameId": "21D10DB8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Volcanic Lord & Blizzard Lord",
+            "replaces": "Finishing Leap",
+            "type": "Bonus",
+            "gameId": "21D10CE8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Volcanic Lord & Blizzard Lord",
+            "replaces": "Lamp Charm",
+            "type": "Popup",
+            "gameId": "11CE079E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Genie Jafar Fight",
+            "replaces": "Fire Element",
+            "type": "Bonus",
+            "gameId": "21D10978",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Genie Jafar Fight",
+            "replaces": "Wishing Lamp",
+            "type": "Popup",
+            "gameId": "11CE08B2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Absent Silhouette Lexaeus (Check 1)",
+            "replaces": "Strength Beyond Strength",
+            "type": "Popup",
+            "gameId": "11CE0A4A",
+            "enabledBy": "Absent Silhouettes"
+        },
+        {
+            "description": "Absent Silhouette Lexaeus (Check 2) or Data Lexaeus",
+            "replaces": "Lost Illusion",
+            "type": "Popup",
+            "gameId": "11CE0A86",
+            "enabledBy": "Data Organization XIII"
+        }
+
+    ],
+    "land-of-dragons": [
+        {
+            "description": "Encampment Heartless Fight",
+            "replaces": "Encampment Area Map",
+            "type": "Popup",
+            "gameId": "11CE06D2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Finish the 'The Search' Mission",
+            "replaces": "AP Boost",
+            "type": "Popup",
+            "gameId": "11CE06C6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Arrive in the Village",
+            "replaces": "Village Area Map",
+            "type": "Popup",
+            "gameId": "11CE06DE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Village Cave Heartless Fight",
+            "replaces": "Slide Dash",
+            "type": "Bonus",
+            "gameId": "21D10DF8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Shan-Yu Fight",
+            "replaces": "Aerial Sweep",
+            "type": "Bonus",
+            "gameId": "21D108C8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Shan-Yu Fight",
+            "replaces": "Hidden Dragon",
+            "type": "Popup",
+            "gameId": "11CE06EA",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Storm Rider Fight",
+            "replaces": "Thunder Element",
+            "type": "Popup",
+            "gameId": "21D10908",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Xigbar",
+            "replaces": "Defense Boost",
+            "type": "Popup",
+            "gameId": "11CE0AE6",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "100-acre-wood": [
+        {
+            "description": "Find Pooh in the Spooky Cave (Check 1)",
+            "replaces": "Sweet Memories",
+            "type": "Popup",
+            "gameId": "11CE0906",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Find Pooh in the Spooky Cave (Check 2)",
+            "replaces": "Spooky Cave Map",
+            "type": "Popup",
+            "gameId": "11CE0912",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete Starry Hill Minigame (Check 1)",
+            "replaces": "Cure Element",
+            "type": "Popup",
+            "gameId": "11CE091E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete Starry Hill Minigame (Check 2)",
+            "replaces": "Orichalcum+",
+            "type": "Popup",
+            "gameId": "11CE092A",
+            "enabledBy": "Default"
+        }
+    ],
+    "pride-lands": [
+        {
+            "description": "Simba Joins your Party",
+            "replaces": "Circle of Life",
+            "type": "Popup",
+            "gameId": "11CE07B6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Scar Fight",
+            "replaces": "Fire Element",
+            "type": "Popup",
+            "gameId": "11CE07C2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Groundshaker Fight",
+            "replaces": "Thunder Element",
+            "type": "Bonus",
+            "gameId": "21D10C18",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Saïx",
+            "replaces": "Defense Boost",
+            "type": "Popup",
+            "gameId": "11CE0AF2",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "disney-castle": [
+        {
+            "description": "Talk to Queen Minnie",
+            "replaces": "Disney Castle Map",
+            "type": "Popup",
+            "gameId": "11CE0756",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Queen Minnie Escort",
+            "replaces": "Auto Summon",
+            "type": "Bonus",
+            "gameId": "21D10D28",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete the Window of Time Heartless Fights",
+            "replaces": "Window of Time Map",
+            "type": "Popup",
+            "gameId": "11CE076E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Steamboat Fight",
+            "replaces": "Dodge Slash",
+            "type": "Bonus",
+            "gameId": "21D10988",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Future Pete Fight",
+            "replaces": "Reflect Element",
+            "type": "Bonus",
+            "gameId": "21D109B8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Future Pete Fight (Check 1)",
+            "replaces": "Monochrome",
+            "type": "Popup",
+            "gameId": "11CE0732",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Future Pete Fight (Check 2)",
+            "replaces": "Wisdom Form",
+            "type": "Popup",
+            "gameId": "11CE0762",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Absent Silhouette Marluxia (Check 1)",
+            "replaces": "Eternal Blossom",
+            "type": "Popup",
+            "gameId": "11CE0A6E",
+            "enabledBy": "Absent Silhouettes"
+        },
+        {
+            "description": "Absent Silhouette Marluxia (Check 2) or Data Marluxia",
+            "replaces": "Lost Illusion",
+            "type": "Popup",
+            "gameId": "11CE0AAA",
+            "enabledBy": "Data Organization XIII"
+        },
+        {
+            "description": "Lingering Will (Check 1)",
+            "replaces": "Proof of Connection",
+            "type": "Popup",
+            "gameId": "11CE0B16",
+            "enabledBy": "Lingering Will (Terra)"
+        },
+        {
+            "description": "Lingering Will (Check 2)",
+            "replaces": "Manifest Illusion",
+            "type": "Popup",
+            "gameId": "11CE0B22",
+            "enabledBy": "Lingering Will (Terra)"
+        }
+    ],
+    "halloween-town": [
+        {
+            "description": "Prison Keeper Fight",
+            "replaces": "Flash Step",
+            "type": "Bonus",
+            "gameId": "21D109E8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Oogie Boogie Fight",
+            "replaces": "Magnet Element",
+            "type": "Popup",
+            "gameId": "11CE07AA",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Collect Presents from Heartless",
+            "replaces": "Present",
+            "type": "Popup",
+            "gameId": "11CE08BE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Make Decoy Presents",
+            "replaces": "Decoy Presents",
+            "type": "Popup",
+            "gameId": "11CE08CA",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "The Experiment Fight",
+            "replaces": "Decisive Pumpkin",
+            "type": "Popup",
+            "gameId": "11CE08D6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Absent Silhouette Vexen (Check 1)",
+            "replaces": "Road to Discovery",
+            "type": "Popup",
+            "gameId": "11CE0A3E",
+            "enabledBy": "Absent Silhouettes"
+        },
+        {
+            "description": "Absent Silhouette Vexen (Check 2) or Data Vexen",
+            "replaces": "Lost Illusion",
+            "type": "Popup",
+            "gameId": "11CE0A7A",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "port-royal": [
+        {
+            "description": "Cave Mouth Pirate Fight",
+            "replaces": "Isla de Muerta Map",
+            "type": "Popup",
+            "gameId": "11CE077A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Interceptor Medallion Fight",
+            "replaces": "Aerial Spiral",
+            "type": "Bonus",
+            "gameId": "21D110B8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Captain Barbossa Fight",
+            "replaces": "Aerial Finish",
+            "type": "Bonus",
+            "gameId": "21D10AA8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Captain Barbossa Fight",
+            "replaces": "Follow the Wind",
+            "type": "Popup",
+            "gameId": "11CE0786",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Grim Reaper 1",
+            "replaces": "Horizontal Slash",
+            "type": "Bonus",
+            "gameId": "21D11028",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Get the First Medallion (Check 1)",
+            "replaces": "Cursed Medallion",
+            "type": "Popup",
+            "gameId": "11CE086A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Get the First Medallion (Check 2)",
+            "replaces": "Ship Graveyard Map",
+            "type": "Popup",
+            "gameId": "11CE0876",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Grim Reaper 2",
+            "replaces": "Magnet Element",
+            "type": "Bonus",
+            "gameId": "21D10AE8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Grim Reaper 2",
+            "replaces": "Secret Ansem Report 6",
+            "type": "Popup",
+            "gameId": "11CE09DE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Luxord",
+            "replaces": "AP Boost",
+            "type": "Popup",
+            "gameId": "11CE0AFE",
+            "enabledBy": "Data Organization XIII"
+        }
+    ],
+    "space-paranoids": [
+        {
+            "description": "Hostile Program",
+            "replaces": "Vicinity Break",
+            "type": "Bonus",
+            "gameId": "21D10C38",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Hostile Program",
+            "replaces": "Photon Debugger",
+            "type": "Popup",
+            "gameId": "11CE0816",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Solar Sailer Heartless Fight",
+            "replaces": "Explosion",
+            "type": "Bonus",
+            "gameId": "21D11078",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "MCP Fight",
+            "replaces": "Reflect Element",
+            "type": "Bonus",
+            "gameId": "21D10C78",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Absent Silhouette Larxene (Check 1)",
+            "replaces": "Cloaked Thunder",
+            "type": "Popup",
+            "gameId": "11CE0A62",
+            "enabledBy": "Absent Silhouettes"
+        },
+        {
+            "description": "Absent Silhouette Larxene (Check 2) or Data Larxene",
+            "replaces": "Lost Illusion",
+            "type": "Popup",
+            "gameId": "11CE0A9E",
+            "enabledBy": "Data Organization XIII"
+        }
+
+    ],
+    "atlantica": [
+        {
+            "description": "Complete the Tutorial",
+            "replaces": "Undersea Kingdom Map",
+            "type": "Popup",
+            "gameId": "11CE0846",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Defeat Ursula",
+            "replaces": "Mysterious Abyss",
+            "type": "Popup",
+            "gameId": "11CE08E2",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete the Last Atlantica Song (Check 1)",
+            "replaces": "Blizzard Element",
+            "type": "Popup",
+            "gameId": "11CE08EE",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Complete the Last Atlantica Song (Check 2)",
+            "replaces": "Orichalucm+",
+            "type": "Popup",
+            "gameId": "11CE08FA",
+            "enabledBy": "Default"
+        }
+    ],
+    "the-world-that-never-was": [
+        {
+            "description": "Roxas Fight",
+            "replaces": "Combo Master",
+            "type": "Bonus",
+            "gameId": "21D111E8",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Roxas Fight (Check 1)",
+            "replaces": "Two Become One",
+            "type": "Popup",
+            "gameId": "11CE0972",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Roxas Fight (Check 2)",
+            "replaces": "Secret Ansem Report 8",
+            "type": "Popup",
+            "gameId": "11CE09F6",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Xigbar Fight",
+            "replaces": "Secret Ansem Report 3",
+            "type": "Popup",
+            "gameId": "11CE09BA",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet up with Riku and Kairi (Check 1)",
+            "replaces": "Oblivion",
+            "type": "Popup",
+            "gameId": "11CE097E",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Meet up with Riku and Kairi (Check 2)",
+            "replaces": "Castle that Never Was Map",
+            "type": "Popup",
+            "gameId": "11CE098A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Luxord Fight",
+            "replaces": "Magnet Element",
+            "type": "Bonus",
+            "gameId": "21D10B58",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Luxord Fight",
+            "replaces": "Secret Ansem Report 9",
+            "type": "Popup",
+            "gameId": "11CE0A02",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Saïx Fight",
+            "replaces": "Secret Ansem Report 12",
+            "type": "Popup",
+            "gameId": "11CE0A26",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Riku Joins the Party",
+            "replaces": "Secret Ansem Report 11",
+            "type": "Popup",
+            "gameId": "11CE0A1A",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Xemnas 1 Fight",
+            "replaces": "Secret Ansem Report 13",
+            "type": "Popup",
+            "gameId": "11CE0A32",
+            "enabledBy": "Default"
+        },
+        {
+            "description": "Data Xemnas",
+            "replaces": "Power Boost",
+            "type": "Popup",
+            "gameId": "11CE0ADA",
+            "enabledBy": "Data Organization XIII"
+        }
+    ]
+}

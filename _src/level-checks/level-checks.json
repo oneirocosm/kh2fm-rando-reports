@@ -1,0 +1,5 @@
+{
+    "layout": "general-page.njk",
+    "tags": "level",
+    "permalink": "/level-checks/{{ pageName | slug }}/index.html"
+}

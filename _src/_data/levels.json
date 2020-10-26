@@ -1,0 +1,820 @@
+[
+    {
+        "level": 2,
+        "stats": "21D0B6BC",
+        "swordId": "11D0B6C0",
+        "shieldId": "11D0B6C2",
+        "staffId": "11D0B6C4",
+        "exp": "21D0B6A8"
+    },
+    {
+        "level": 3,
+        "stats": "21D0B6CC",
+        "doubleIncrease": true,
+        "swordId": "11D0B6D0",
+        "shieldId": "11D0B6D2",
+        "staffId": "11D0B6D4",
+        "exp": "21D0B6B8"
+    },
+    {
+        "level": 4,
+        "stats": "21D0B6DC",
+        "swordId": "11D0B6E0",
+        "shieldId": "11D0B6E2",
+        "staffId": "11D0B6E4",
+        "exp": "21D0B6C8"
+    },
+    {
+        "level": 5,
+        "stats": "21D0B6EC",
+        "doubleIncrease": true,
+        "swordId": "11D0B6F0",
+        "shieldId": "11D0B6F2",
+        "staffId": "11D0B6F4",
+        "exp": "21D0B6D8"
+    },
+    {
+        "level": 6,
+        "stats": "21D0B6FC",
+        "doubleIncrease": true,
+        "swordId": "11D0B700",
+        "shieldId": "11D0B702",
+        "staffId": "11D0B704",
+        "exp": "21D0B6E8"
+    },
+    {
+        "level": 7,
+        "stats": "21D0B70C",
+        "swordId": "11D0B710",
+        "shieldId": "11D0B712",
+        "staffId": "11D0B714",
+        "exp": "21D0B6F8"
+    },
+    {
+        "level": 8,
+        "stats": "21D0B71C",
+        "doubleIncrease": true,
+        "swordId": "11D0B720",
+        "shieldId": "11D0B722",
+        "staffId": "11D0B724",
+        "exp": "21D0B708"
+    },
+    {
+        "level": 9,
+        "stats": "21D0B72C",
+        "swordId": "11D0B730",
+        "shieldId": "11D0B732",
+        "staffId": "11D0B734",
+        "exp": "21D0B718"
+    },
+    {
+        "level": 10,
+        "stats": "21D0B73C",
+        "swordId": "11D0B740",
+        "shieldId": "11D0B742",
+        "staffId": "11D0B744",
+        "exp": "21D0B728"
+    },
+    {
+        "level": 11,
+        "stats": "21D0B74C",
+        "doubleIncrease": true,
+        "swordId": "11D0B750",
+        "shieldId": "11D0B752",
+        "staffId": "11D0B754",
+        "exp": "21D0B738"
+    },
+    {
+        "level": 12,
+        "stats": "21D0B75C",
+        "swordId": "11D0B760",
+        "shieldId": "11D0B762",
+        "staffId": "11D0B764",
+        "exp": "21D0B748"
+    },
+    {
+        "level": 13,
+        "stats": "21D0B76C",
+        "doubleIncrease": true,
+        "swordId": "11D0B770",
+        "shieldId": "11D0B772",
+        "staffId": "11D0B774",
+        "exp": "21D0B758"
+    },
+    {
+        "level": 14,
+        "stats": "21D0B77C",
+        "swordId": "11D0B780",
+        "shieldId": "11D0B782",
+        "staffId": "11D0B784",
+        "exp": "21D0B768"
+    },
+    {
+        "level": 15,
+        "stats": "21D0B78C",
+        "swordId": "11D0B790",
+        "shieldId": "11D0B792",
+        "staffId": "11D0B794",
+        "exp": "21D0B778"
+    },
+    {
+        "level": 16,
+        "stats": "21D0B79C",
+        "doubleIncrease": true,
+        "swordId": "11D0B7A0",
+        "shieldId": "11D0B7A2",
+        "staffId": "11D0B7A4",
+        "exp": "21D0B788"
+    },
+    {
+        "level": 17,
+        "stats": "21D0B7AC",
+        "swordId": "11D0B7B0",
+        "shieldId": "11D0B7B2",
+        "staffId": "11D0B7B4",
+        "exp": "21D0B798"
+    },
+    {
+        "level": 18,
+        "stats": "21D0B7BC",
+        "doubleIncrease": true,
+        "swordId": "11D0B7C0",
+        "shieldId": "11D0B7C2",
+        "staffId": "11D0B7C4",
+        "exp": "21D0B7A8"
+    },
+    {
+        "level": 19,
+        "stats": "21D0B7CC",
+        "doubleIncrease": true,
+        "swordId": "11D0B7D0",
+        "shieldId": "11D0B7D2",
+        "staffId": "11D0B7D4",
+        "exp": "21D0B7B8"
+    },
+    {
+        "level": 20,
+        "stats": "21D0B7DC",
+        "swordId": "11D0B7E0",
+        "shieldId": "11D0B7E2",
+        "staffId": "11D0B7E4",
+        "exp": "21D0B7C8"
+    },
+    {
+        "level": 21,
+        "stats": "21D0B7EC",
+        "doubleIncrease": true,
+        "swordId": "11D0B7F0",
+        "shieldId": "11D0B7F2",
+        "staffId": "11D0B7F4",
+        "exp": "21D0B7D8"
+    },
+    {
+        "level": 22,
+        "stats": "21D0B7FC",
+        "swordId": "11D0B800",
+        "shieldId": "11D0B802",
+        "staffId": "11D0B804",
+        "exp": "21D0B7E8"
+    },
+    {
+        "level": 23,
+        "stats": "21D0B80C",
+        "swordId": "11D0B810",
+        "shieldId": "11D0B812",
+        "staffId": "11D0B814",
+        "exp": "21D0B7F8"
+    },
+    {
+        "level": 24,
+        "stats": "21D0B81C",
+        "doubleIncrease": true,
+        "swordId": "11D0B820",
+        "shieldId": "11D0B822",
+        "staffId": "11D0B824",
+        "exp": "21D0B808"
+    },
+    {
+        "level": 25,
+        "stats": "21D0B82C",
+        "swordId": "11D0B830",
+        "shieldId": "11D0B832",
+        "staffId": "11D0B834",
+        "exp": "21D0B818"
+    },
+    {
+        "level": 26,
+        "stats": "21D0B83C",
+        "swordId": "11D0B840",
+        "shieldId": "11D0B842",
+        "staffId": "11D0B844",
+        "exp": "21D0B828"
+    },
+    {
+        "level": 27,
+        "stats": "21D0B84C",
+        "swordId": "11D0B850",
+        "shieldId": "11D0B852",
+        "staffId": "11D0B854",
+        "exp": "21D0B838"
+    },
+    {
+        "level": 28,
+        "stats": "21D0B85C",
+        "swordId": "11D0B860",
+        "shieldId": "11D0B862",
+        "staffId": "11D0B864",
+        "exp": "21D0B848"
+    },
+    {
+        "level": 29,
+        "stats": "21D0B86C",
+        "doubleIncrease": true,
+        "swordId": "11D0B870",
+        "shieldId": "11D0B872",
+        "staffId": "11D0B874",
+        "exp": "21D0B858"
+    },
+    {
+        "level": 30,
+        "stats": "21D0B87C",
+        "swordId": "11D0B880",
+        "shieldId": "11D0B882",
+        "staffId": "11D0B884",
+        "exp": "21D0B868"
+    },
+    {
+        "level": 31,
+        "stats": "21D0B88C",
+        "swordId": "11D0B890",
+        "shieldId": "11D0B892",
+        "staffId": "11D0B894",
+        "exp": "21D0B878"
+    },
+    {
+        "level": 32,
+        "stats": "21D0B89C",
+        "swordId": "11D0B8A0",
+        "shieldId": "11D0B8A2",
+        "staffId": "11D0B8A4",
+        "exp": "21D0B888"
+    },
+    {
+        "level": 33,
+        "stats": "21D0B8AC",
+        "swordId": "11D0B8B0",
+        "shieldId": "11D0B8B2",
+        "staffId": "11D0B8B4",
+        "exp": "21D0B898"
+    },
+    {
+        "level": 34,
+        "stats": "21D0B8BC",
+        "swordId": "11D0B8C0",
+        "shieldId": "11D0B8C2",
+        "staffId": "11D0B8C4",
+        "exp": "21D0B8A8"
+    },
+    {
+        "level": 35,
+        "stats": "21D0B8CC",
+        "doubleIncrease": true,
+        "swordId": "11D0B8D0",
+        "shieldId": "11D0B8D2",
+        "staffId": "11D0B8D4",
+        "exp": "21D0B8B8"
+    },
+    {
+        "level": 36,
+        "stats": "21D0B8DC",
+        "swordId": "11D0B8E0",
+        "shieldId": "11D0B8E2",
+        "staffId": "11D0B8E4",
+        "exp": "21D0B8C8"
+    },
+    {
+        "level": 37,
+        "stats": "21D0B8EC",
+        "doubleIncrease": true,
+        "swordId": "11D0B8F0",
+        "shieldId": "11D0B8F2",
+        "staffId": "11D0B8F4",
+        "exp": "21D0B8D8"
+    },
+    {
+        "level": 38,
+        "stats": "21D0B8FC",
+        "swordId": "11D0B900",
+        "shieldId": "11D0B902",
+        "staffId": "11D0B904",
+        "exp": "21D0B8E8"
+    },
+    {
+        "level": 39,
+        "stats": "21D0B90C",
+        "swordId": "11D0B910",
+        "shieldId": "11D0B912",
+        "staffId": "11D0B914",
+        "exp": "21D0B8F8"
+    },
+    {
+        "level": 40,
+        "stats": "21D0B91C",
+        "doubleIncrease": true,
+        "swordId": "11D0B920",
+        "shieldId": "11D0B922",
+        "staffId": "11D0B924",
+        "exp": "21D0B908"
+    },
+    {
+        "level": 41,
+        "stats": "21D0B92C",
+        "swordId": "11D0B930",
+        "shieldId": "11D0B932",
+        "staffId": "11D0B934",
+        "exp": "21D0B918"
+    },
+    {
+        "level": 42,
+        "stats": "21D0B93C",
+        "swordId": "11D0B940",
+        "shieldId": "11D0B942",
+        "staffId": "11D0B944",
+        "exp": "21D0B928"
+    },
+    {
+        "level": 43,
+        "stats": "21D0B94C",
+        "swordId": "11D0B950",
+        "shieldId": "11D0B952",
+        "staffId": "11D0B954",
+        "exp": "21D0B938"
+    },
+    {
+        "level": 44,
+        "stats": "21D0B95C",
+        "swordId": "11D0B960",
+        "shieldId": "11D0B962",
+        "staffId": "11D0B964",
+        "exp": "21D0B948"
+    },
+    {
+        "level": 45,
+        "stats": "21D0B96C",
+        "doubleIncrease": true,
+        "swordId": "11D0B970",
+        "shieldId": "11D0B972",
+        "staffId": "11D0B974",
+        "exp": "21D0B958"
+    },
+    {
+        "level": 46,
+        "stats": "21D0B97C",
+        "swordId": "11D0B980",
+        "shieldId": "11D0B982",
+        "staffId": "11D0B984",
+        "exp": "21D0B968"
+    },
+    {
+        "level": 47,
+        "stats": "21D0B98C",
+        "swordId": "11D0B990",
+        "shieldId": "11D0B992",
+        "staffId": "11D0B994",
+        "exp": "21D0B978"
+    },
+    {
+        "level": 48,
+        "stats": "21D0B99C",
+        "swordId": "11D0B9A0",
+        "shieldId": "11D0B9A2",
+        "staffId": "11D0B9A4",
+        "exp": "21D0B988"
+    },
+    {
+        "level": 49,
+        "stats": "21D0B9AC",
+        "swordId": "11D0B9B0",
+        "shieldId": "11D0B9B2",
+        "staffId": "11D0B9B4",
+        "exp": "21D0B998"
+    },
+    {
+        "level": 50,
+        "stats": "21D0B9BC",
+        "swordId": "11D0B9C0",
+        "shieldId": "11D0B9C2",
+        "staffId": "11D0B9C4",
+        "exp": "21D0B9A8"
+    },
+    {
+        "level": 51,
+        "stats": "21D0B9CC",
+        "doubleIncrease": true,
+        "swordId": "11D0B9D0",
+        "shieldId": "11D0B9D2",
+        "staffId": "11D0B9D4",
+        "exp": "21D0B9B8"
+    },
+    {
+        "level": 52,
+        "stats": "21D0B9DC",
+        "swordId": "11D0B9E0",
+        "shieldId": "11D0B9E2",
+        "staffId": "11D0B9E4",
+        "exp": "21D0B9C8"
+    },
+    {
+        "level": 53,
+        "stats": "21D0B9EC",
+        "swordId": "11D0B9F0",
+        "shieldId": "11D0B9F2",
+        "staffId": "11D0B9F4",
+        "exp": "21D0B9D8"
+    },
+    {
+        "level": 54,
+        "stats": "21D0B9FC",
+        "swordId": "11D0BA00",
+        "shieldId": "11D0BA02",
+        "staffId": "11D0BA04",
+        "exp": "21D0B9E8"
+    },
+    {
+        "level": 55,
+        "stats": "21D0BA0C",
+        "doubleIncrease": true,
+        "swordId": "11D0BA10",
+        "shieldId": "11D0BA12",
+        "staffId": "11D0BA14",
+        "exp": "21D0B9F8"
+    },
+    {
+        "level": 56,
+        "stats": "21D0BA1C",
+        "swordId": "11D0BA20",
+        "shieldId": "11D0BA22",
+        "staffId": "11D0BA24",
+        "exp": "21D0BA08"
+    },
+    {
+        "level": 57,
+        "stats": "21D0BA2C",
+        "doubleIncrease": true,
+        "swordId": "11D0BA30",
+        "shieldId": "11D0BA32",
+        "staffId": "11D0BA34",
+        "exp": "21D0BA18"
+    },
+    {
+        "level": 58,
+        "stats": "21D0BA3C",
+        "swordId": "11D0BA40",
+        "shieldId": "11D0BA42",
+        "staffId": "11D0BA44",
+        "exp": "21D0BA28"
+    },
+    {
+        "level": 59,
+        "stats": "21D0BA4C",
+        "swordId": "11D0BA50",
+        "shieldId": "11D0BA52",
+        "staffId": "11D0BA54",
+        "exp": "21D0BA38"
+    },
+    {
+        "level": 60,
+        "stats": "21D0BA5C",
+        "swordId": "11D0BA60",
+        "shieldId": "11D0BA62",
+        "staffId": "11D0BA64",
+        "exp": "21D0BA48"
+    },
+    {
+        "level": 61,
+        "stats": "21D0BA6C",
+        "doubleIncrease": true,
+        "swordId": "11D0BA70",
+        "shieldId": "11D0BA72",
+        "staffId": "11D0BA74",
+        "exp": "21D0BA58"
+    },
+    {
+        "level": 62,
+        "stats": "21D0BA7C",
+        "swordId": "11D0BA80",
+        "shieldId": "11D0BA82",
+        "staffId": "11D0BA84",
+        "exp": "21D0BA68"
+    },
+    {
+        "level": 63,
+        "stats": "21D0BA8C",
+        "doubleIncrease": true,
+        "swordId": "11D0BA90",
+        "shieldId": "11D0BA92",
+        "staffId": "11D0BA94",
+        "exp": "21D0BA78"
+    },
+    {
+        "level": 64,
+        "stats": "21D0BA9C",
+        "swordId": "11D0BAA0",
+        "shieldId": "11D0BAA2",
+        "staffId": "11D0BAA4",
+        "exp": "21D0BA88"
+    },
+    {
+        "level": 65,
+        "stats": "21D0BAAC",
+        "swordId": "11D0BAB0",
+        "shieldId": "11D0BAB2",
+        "staffId": "11D0BAB4",
+        "exp": "21D0BA98"
+    },
+    {
+        "level": 66,
+        "stats": "21D0BABC",
+        "swordId": "11D0BAC0",
+        "shieldId": "11D0BAC2",
+        "staffId": "11D0BAC4",
+        "exp": "21D0BAA8"
+    },
+    {
+        "level": 67,
+        "stats": "21D0BACC",
+        "doubleIncrease": true,
+        "swordId": "11D0BAD0",
+        "shieldId": "11D0BAD2",
+        "staffId": "11D0BAD4",
+        "exp": "21D0BAB8"
+    },
+    {
+        "level": 68,
+        "stats": "21D0BADC",
+        "swordId": "11D0BAE0",
+        "shieldId": "11D0BAE2",
+        "staffId": "11D0BAE4",
+        "exp": "21D0BAC8"
+    },
+    {
+        "level": 69,
+        "stats": "21D0BAEC",
+        "doubleIncrease": true,
+        "swordId": "11D0BAF0",
+        "shieldId": "11D0BAF2",
+        "staffId": "11D0BAF4",
+        "exp": "21D0BAD8"
+    },
+    {
+        "level": 70,
+        "stats": "21D0BAFC",
+        "swordId": "11D0BB00",
+        "shieldId": "11D0BB02",
+        "staffId": "11D0BB04",
+        "exp": "21D0BAE8"
+    },
+    {
+        "level": 71,
+        "stats": "21D0BB0C",
+        "doubleIncrease": true,
+        "swordId": "11D0BB10",
+        "shieldId": "11D0BB12",
+        "staffId": "11D0BB14",
+        "exp": "21D0BAF8"
+    },
+    {
+        "level": 72,
+        "stats": "21D0BB1C",
+        "swordId": "11D0BB20",
+        "shieldId": "11D0BB22",
+        "staffId": "11D0BB24",
+        "exp": "21D0BB08"
+    },
+    {
+        "level": 73,
+        "stats": "21D0BB2C",
+        "swordId": "11D0BB30",
+        "shieldId": "11D0BB32",
+        "staffId": "11D0BB34",
+        "exp": "21D0BB18"
+    },
+    {
+        "level": 74,
+        "stats": "21D0BB3C",
+        "swordId": "11D0BB40",
+        "shieldId": "11D0BB42",
+        "staffId": "11D0BB44",
+        "exp": "21D0BB28"
+    },
+    {
+        "level": 75,
+        "stats": "21D0BB4C",
+        "doubleIncrease": true,
+        "swordId": "11D0BB50",
+        "shieldId": "11D0BB52",
+        "staffId": "11D0BB54",
+        "exp": "21D0BB38"
+    },
+    {
+        "level": 76,
+        "stats": "21D0BB5C",
+        "swordId": "11D0BB60",
+        "shieldId": "11D0BB62",
+        "staffId": "11D0BB64",
+        "exp": "21D0BB48"
+    },
+    {
+        "level": 77,
+        "stats": "21D0BB6C",
+        "doubleIncrease": true,
+        "swordId": "11D0BB70",
+        "shieldId": "11D0BB72",
+        "staffId": "11D0BB74",
+        "exp": "21D0BB58"
+    },
+    {
+        "level": 78,
+        "stats": "21D0BB7C",
+        "swordId": "11D0BB80",
+        "shieldId": "11D0BB82",
+        "staffId": "11D0BB84",
+        "exp": "21D0BB68"
+    },
+    {
+        "level": 79,
+        "stats": "21D0BB8C",
+        "doubleIncrease": true,
+        "swordId": "11D0BB90",
+        "shieldId": "11D0BB92",
+        "staffId": "11D0BB94",
+        "exp": "21D0BB78"
+    },
+    {
+        "level": 80,
+        "stats": "21D0BB9C",
+        "swordId": "11D0BBA0",
+        "shieldId": "11D0BBA2",
+        "staffId": "11D0BBA4",
+        "exp": "21D0BB88"
+    },
+    {
+        "level": 81,
+        "stats": "21D0BBAC",
+        "doubleIncrease": true,
+        "swordId": "11D0BBB0",
+        "shieldId": "11D0BBB2",
+        "staffId": "11D0BBB4",
+        "exp": "21D0BB98"
+    },
+    {
+        "level": 82,
+        "stats": "21D0BBBC",
+        "swordId": "11D0BBC0",
+        "shieldId": "11D0BBC2",
+        "staffId": "11D0BBC4",
+        "exp": "21D0BBA8"
+    },
+    {
+        "level": 83,
+        "stats": "21D0BBCC",
+        "doubleIncrease": true,
+        "swordId": "11D0BBD0",
+        "shieldId": "11D0BBD2",
+        "staffId": "11D0BBD4",
+        "exp": "21D0BBB8"
+    },
+    {
+        "level": 84,
+        "stats": "21D0BBDC",
+        "swordId": "11D0BBE0",
+        "shieldId": "11D0BBE2",
+        "staffId": "11D0BBE4",
+        "exp": "21D0BBC8"
+    },
+    {
+        "level": 85,
+        "stats": "21D0BBEC",
+        "swordId": "11D0BBF0",
+        "shieldId": "11D0BBF2",
+        "staffId": "11D0BBF4",
+        "exp": "21D0BBD8"
+    },
+    {
+        "level": 86,
+        "stats": "21D0BBFC",
+        "swordId": "11D0BC00",
+        "shieldId": "11D0BC02",
+        "staffId": "11D0BC04",
+        "exp": "21D0BBE8"
+    },
+    {
+        "level": 87,
+        "stats": "21D0BC0C",
+        "doubleIncrease": true,
+        "swordId": "11D0BC10",
+        "shieldId": "11D0BC12",
+        "staffId": "11D0BC14",
+        "exp": "21D0BBF8"
+    },
+    {
+        "level": 88,
+        "stats": "21D0BC1C",
+        "swordId": "11D0BC20",
+        "shieldId": "11D0BC22",
+        "staffId": "11D0BC24",
+        "exp": "21D0BC08"
+    },
+    {
+        "level": 89,
+        "stats": "21D0BC2C",
+        "doubleIncrease": true,
+        "swordId": "11D0BC30",
+        "shieldId": "11D0BC32",
+        "staffId": "11D0BC34",
+        "exp": "21D0BC18"
+    },
+    {
+        "level": 90,
+        "stats": "21D0BC3C",
+        "swordId": "11D0BC40",
+        "shieldId": "11D0BC42",
+        "staffId": "11D0BC44",
+        "exp": "21D0BC28"
+    },
+    {
+        "level": 91,
+        "stats": "21D0BC4C",
+        "doubleIncrease": true,
+        "swordId": "11D0BC50",
+        "shieldId": "11D0BC52",
+        "staffId": "11D0BC54",
+        "exp": "21D0BC38"
+    },
+    {
+        "level": 92,
+        "stats": "21D0BC5C",
+        "swordId": "11D0BC60",
+        "shieldId": "11D0BC62",
+        "staffId": "11D0BC64",
+        "exp": "21D0BC48"
+    },
+    {
+        "level": 93,
+        "stats": "21D0BC6C",
+        "swordId": "11D0BC70",
+        "shieldId": "11D0BC72",
+        "staffId": "11D0BC74",
+        "exp": "21D0BC58"
+    },
+    {
+        "level": 94,
+        "stats": "21D0BC7C",
+        "swordId": "11D0BC80",
+        "shieldId": "11D0BC82",
+        "staffId": "11D0BC84",
+        "exp": "21D0BC68"
+    },
+    {
+        "level": 95,
+        "stats": "21D0BC8C",
+        "doubleIncrease": true,
+        "swordId": "11D0BC90",
+        "shieldId": "11D0BC92",
+        "staffId": "11D0BC94",
+        "exp": "21D0BC78"
+    },
+    {
+        "level": 96,
+        "stats": "21D0BC9C",
+        "swordId": "11D0BCA0",
+        "shieldId": "11D0BCA2",
+        "staffId": "11D0BCA4",
+        "exp": "21D0BC88"
+    },
+    {
+        "level": 97,
+        "stats": "21D0BCAC",
+        "doubleIncrease": true,
+        "swordId": "11D0BCB0",
+        "shieldId": "11D0BCB2",
+        "staffId": "11D0BCB4",
+        "exp": "21D0BC98"
+    },
+    {
+        "level": 98,
+        "stats": "21D0BCBC",
+        "swordId": "11D0BCC0",
+        "shieldId": "11D0BCC2",
+        "staffId": "11D0BCC4",
+        "exp": "21D0BCA8"
+    },
+    {
+        "level": 99,
+        "stats": "21D0BCCC",
+        "swordId": "11D0BCD0",
+        "shieldId": "11D0BCD2",
+        "staffId": "11D0BCD4",
+        "exp": "21D0BCB8"
+    }
+]

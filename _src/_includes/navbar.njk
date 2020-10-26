@@ -1,0 +1,51 @@
+
+<nav aria-label="Navigation Bar">
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li class="dropdown">
+            <!-- javascript goes here -->
+            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
+                Worlds
+            </button>
+            <ul class="dropdown__menu" id="worlds-dropdown">
+                {% for item in collections.world -%}
+                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                {% endfor -%}
+            </ul>
+        </li>
+        <li class="dropdown">
+            <!-- javascript goes here -->
+            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
+            Level Checks
+            </button>
+            <ul class="dropdown__menu" id="worlds-dropdown">
+                {% for item in collections.level -%}
+                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                {% endfor -%}
+            </ul>
+        </li>
+        <li class="dropdown">
+            <!-- javascript goes here -->
+            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
+            Boss Tips
+            </button>
+            <ul class="dropdown__menu" id="worlds-dropdown">
+                {% for item in collections.boss -%}
+                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                {% endfor -%}
+            </ul>
+        </li>
+        <li class="dropdown">
+            <!-- javascript goes here -->
+            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
+            General Tips
+            </button>
+            <ul class="dropdown__menu" id="worlds-dropdown">
+                {% for item in collections.general -%}
+                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                {% endfor -%}
+            </ul>
+        </li>
+        <li><a href="#">About</a></li>
+    </ul>
+</nav>

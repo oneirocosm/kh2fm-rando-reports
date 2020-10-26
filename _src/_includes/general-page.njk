@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{ pageName }}</title>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/navbar.css">
+    </head>
+    <body tabindex="-1">
+        {% include "header.njk" %}
+        {% include "navbar.njk" %}
+        <main>
+            <h2>{{ pageName }}</h2>
+            <p><em>{{ blurb }}</em></p>
+
+            {{ content | safe }}
+
+        <main>
+    </body>
+</html>

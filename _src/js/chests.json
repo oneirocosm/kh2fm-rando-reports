@@ -1,0 +1,2253 @@
+{
+    "garden-of-assemblage": [
+        {
+            "journalId": "6-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05E2",
+            "mapLat": 533,
+            "mapLon": 566
+        },
+        {
+            "journalId": "6-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05EE",
+            "mapLat": 533,
+            "mapLon": 446
+        },
+        {
+            "journalId": "6-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05FA",
+            "mapLat": 533,
+            "mapLon": 536
+        }
+    ],
+    "simulated-twilight-town": [
+        {
+            "journalId": "R-1",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE016E",
+            "mapLat": 229,
+            "mapLon": 628
+        },
+        {
+            "journalId": "R-2",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE017A",
+            "mapLat": 507,
+            "mapLon": 533
+        },
+        {
+            "journalId": "R-3",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE0186",
+            "mapLat": 880,
+            "mapLon": 319
+        },
+        {
+            "journalId": "R-4",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE0192",
+            "mapLat": 897,
+            "mapLon": 332
+        },
+        {
+            "journalId": "R-5",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE019E",
+            "mapLat": 910,
+            "mapLon": 370
+        },
+        {
+            "journalId": "R-6",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01AA",
+            "mapLat": 96,
+            "mapLon": 348
+        },
+        {
+            "journalId": "R-7",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01B6",
+            "mapLat": 128,
+            "mapLon": 301
+        },
+        {
+            "journalId": "R-8",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01C2",
+            "mapLat": 111,
+            "mapLon": 280
+        },
+        {
+            "journalId": "R-9",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01CE",
+            "mapLat": 97,
+            "mapLon": 358
+        },
+        {
+            "journalId": "R-10",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01DA",
+            "mapLat": 943,
+            "mapLon": 563
+        },
+        {
+            "journalId": "R-11",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01E6",
+            "mapLat": 943,
+            "mapLon": 550
+        },
+        {
+            "journalId": "R-12",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01F2",
+            "mapLat": 950,
+            "mapLon": 575
+        },
+        {
+            "journalId": "R-13",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE01FE",
+            "mapLat": 910,
+            "mapLon": 480
+        },
+        {
+            "journalId": "R-14",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE020A",
+            "mapLat": 918,
+            "mapLon": 513
+        },
+        {
+            "journalId": "R-15",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE0216",
+            "mapLat": 877,
+            "mapLon": 593
+        },
+        {
+            "journalId": "R-16",
+            "journalWorld": "Not Listed in Journal",
+            "gameId": "11CE0222",
+            "mapLat": 853,
+            "mapLon": 761
+        }
+    ],
+    "twilight-town": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE022E",
+            "mapLat": 777,
+            "mapLon": 467
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE023A",
+            "mapLat": 822,
+            "mapLon": 493
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0246",
+            "mapLat": 675,
+            "mapLon": 474
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0252",
+            "mapLat": 698,
+            "mapLon": 453
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE025E",
+            "mapLat": 698,
+            "mapLon": 473
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE026A",
+            "mapLat": 675,
+            "mapLon": 350
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0276",
+            "mapLat": 697,
+            "mapLon": 378
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0282",
+            "mapLat": 714,
+            "mapLon": 346
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE028E",
+            "mapLat": 687,
+            "mapLon": 319
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE029A",
+            "mapLat": 639,
+            "mapLon": 289
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02A6",
+            "mapLat": 686,
+            "mapLon": 356
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02B2",
+            "mapLat": 665,
+            "mapLon": 366
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02BE",
+            "mapLat": 904,
+            "mapLon": 236
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02CA",
+            "mapLat": 888,
+            "mapLon": 238
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02D6",
+            "mapLat": 904,
+            "mapLon": 290
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02E2",
+            "mapLat": 100,
+            "mapLon": 714
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02EE",
+            "mapLat": 120,
+            "mapLon": 706
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE02FA",
+            "mapLat": 140,
+            "mapLon": 705
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0306",
+            "mapLat": 183,
+            "mapLon": 748
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0312",
+            "mapLat": 223,
+            "mapLon": 742
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE031E",
+            "mapLat": 602,
+            "mapLon": 777
+        },
+        {
+            "journalId": "3-6",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE032A",
+            "mapLat": 635,
+            "mapLon": 808
+        },
+        {
+            "journalId": "3-7",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0336",
+            "mapLat": 353,
+            "mapLon": 184
+        },
+        {
+            "journalId": "3-8",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0342",
+            "mapLat": 357,
+            "mapLon": 224
+        },
+        {
+            "journalId": "4-1",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE034E",
+            "mapLat": 366,
+            "mapLon": 202
+        },
+        {
+            "journalId": "4-2",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE035A",
+            "mapLat": 363,
+            "mapLon": 254
+        },
+        {
+            "journalId": "4-3",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0366",
+            "mapLat": 234,
+            "mapLon": 167
+        },
+        {
+            "journalId": "4-4",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0372",
+            "mapLat": 215,
+            "mapLon": 247
+        },
+        {
+            "journalId": "4-5",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE037E",
+            "mapLat": 97,
+            "mapLon": 271
+        },
+        {
+            "journalId": "4-6",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE038A",
+            "mapLat": 99,
+            "mapLon": 224
+        },
+        {
+            "journalId": "4-7",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE0396",
+            "mapLat": 115,
+            "mapLon": 265
+        },
+        {
+            "journalId": "4-8",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03A2",
+            "mapLat": 165,
+            "mapLon": 279
+        },
+        {
+            "journalId": "5-1",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03AE",
+            "mapLat": 949,
+            "mapLon": 474
+        },
+        {
+            "journalId": "5-2",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03BA",
+            "mapLat": 949,
+            "mapLon": 487
+        },
+        {
+            "journalId": "5-3",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03C6",
+            "mapLat": 956,
+            "mapLon": 479
+        },
+        {
+            "journalId": "5-4",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03D2",
+            "mapLat": 939,
+            "mapLon": 399
+        },
+        {
+            "journalId": "5-5",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03DE",
+            "mapLat": 951,
+            "mapLon": 435
+        },
+        {
+            "journalId": "5-6",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03EA",
+            "mapLat": 914,
+            "mapLon": 534
+        },
+        {
+            "journalId": "5-7",
+            "journalWorld": "Twilight Town",
+            "gameId": "11CE03F6",
+            "mapLat": 849,
+            "mapLon": 677
+        }
+    ],
+    "radiant-garden": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF3A",
+            "mapLat": 637,
+            "mapLon": 575
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF46",
+            "mapLat": 677,
+            "mapLon": 561
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF52",
+            "mapLat": 665,
+            "mapLon": 528
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF5E",
+            "mapLat": 608,
+            "mapLon": 563
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF6A",
+            "mapLat": 621,
+            "mapLon": 547
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF76",
+            "mapLat": 749,
+            "mapLon": 270
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF82",
+            "mapLat": 741,
+            "mapLon": 265.5
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF8E",
+            "mapLat": 752,
+            "mapLon": 283
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFF9A",
+            "mapLat": 835,
+            "mapLon": 122
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFA6",
+            "mapLat": 854,
+            "mapLon": 147
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFB2",
+            "mapLat": 799,
+            "mapLon": 131
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFBE",
+            "mapLat": 835,
+            "mapLon": 195
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFCA",
+            "mapLat": 898,
+            "mapLon": 214
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFD6",
+            "mapLat": 902,
+            "mapLon": 246
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFE2",
+            "mapLat": 639,
+            "mapLon": 233.7
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFEE",
+            "mapLat": 635,
+            "mapLon": 229.5
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CDFFFA",
+            "mapLat": 231,
+            "mapLon": 89
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0006",
+            "mapLat": 245,
+            "mapLon": 75
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0012",
+            "mapLat": 249.7,
+            "mapLon": 78.7
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE001E",
+            "mapLat": 241,
+            "mapLon": 72
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE002A",
+            "mapLat": 747,
+            "mapLon": 284
+        },
+        {
+            "journalId": "3-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0036",
+            "mapLat": 947,
+            "mapLon": 260
+        },
+        {
+            "journalId": "3-7",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE04E6",
+            "mapLat": 522,
+            "mapLon": 865
+        },
+        {
+            "journalId": "3-8",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE04F2",
+            "mapLat": 475,
+            "mapLon": 808
+        },
+        {
+            "journalId": "4-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE04FE",
+            "mapLat": 521,
+            "mapLon": 737
+        },
+        {
+            "journalId": "4-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE050A",
+            "mapLat": 466,
+            "mapLon": 757
+        },
+        {
+            "journalId": "4-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0516",
+            "mapLat": 500,
+            "mapLon": 715
+        },
+        {
+            "journalId": "4-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0522",
+            "mapLat": 422,
+            "mapLon": 794
+        },
+        {
+            "journalId": "4-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE052E",
+            "mapLat": 331,
+            "mapLon": 882
+        },
+        {
+            "journalId": "4-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE053A",
+            "mapLat": 234,
+            "mapLon": 922
+        },
+        {
+            "journalId": "4-7",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0546",
+            "mapLat": 345,
+            "mapLon": 895
+        },
+        {
+            "journalId": "4-8",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0552",
+            "mapLat": 373,
+            "mapLon": 928
+        },
+        {
+            "journalId": "5-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE055E",
+            "mapLat": 361,
+            "mapLon": 914
+        },
+        {
+            "journalId": "5-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE056A",
+            "mapLat": 388,
+            "mapLon": 925
+        },
+        {
+            "journalId": "5-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0576",
+            "mapLat": 60,
+            "mapLon": 792
+        },
+        {
+            "journalId": "5-4",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE0582",
+            "mapLat": 22,
+            "mapLon": 743
+        },
+        {
+            "journalId": "5-5",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE058E",
+            "mapLat": 90,
+            "mapLon": 869
+        },
+        {
+            "journalId": "5-6",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE059A",
+            "mapLat": 92,
+            "mapLon": 823
+        },
+        {
+            "journalId": "5-7",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05A6",
+            "mapLat": 220,
+            "mapLon": 714
+        },
+        {
+            "journalId": "5-8",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05B2",
+            "mapLat": 156,
+            "mapLon": 741
+        },
+        {
+            "journalId": "6-1",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05B8",
+            "mapLat": 236,
+            "mapLon": 680
+        },
+        {
+            "journalId": "6-2",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05CA",
+            "mapLat": 278,
+            "mapLon": 758
+        },
+        {
+            "journalId": "6-3",
+            "journalWorld": "Radiant Garden",
+            "gameId": "11CE05D6",
+            "mapLat": 169,
+            "mapLon": 756
+        }
+    ],
+    "beasts-castle": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFBF2",
+            "mapLat": 305,
+            "mapLon": 576
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFBFE",
+            "mapLat": 342,
+            "mapLon": 666
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC0A",
+            "mapLat": 301,
+            "mapLon": 629
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC16",
+            "mapLat": 447,
+            "mapLon": 918
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC22",
+            "mapLat": 446,
+            "mapLon": 962
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC2E",
+            "mapLat": 520,
+            "mapLon": 814
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC3A",
+            "mapLat": 520,
+            "mapLon": 898
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC46",
+            "mapLat": 514,
+            "mapLon": 430
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC52",
+            "mapLat": 473,
+            "mapLon": 407
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC5E",
+            "mapLat": 545,
+            "mapLon": 378
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC6A",
+            "mapLat": 623,
+            "mapLon": 390
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC76",
+            "mapLat": 597,
+            "mapLon": 418
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC82",
+            "mapLat": 637,
+            "mapLon": 365
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC8E",
+            "mapLat": 612,
+            "mapLon": 69
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFC9A",
+            "mapLat": 612,
+            "mapLon": 26
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCA6",
+            "mapLat": 331,
+            "mapLon": 260
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCB2",
+            "mapLat": 331,
+            "mapLon": 287
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCBE",
+            "mapLat": 346,
+            "mapLon": 350
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCCA",
+            "mapLat": 692,
+            "mapLon": 464
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCD6",
+            "mapLat": 738,
+            "mapLon": 404
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Beast's Castle",
+            "gameId": "11CDFCE2",
+            "mapLat": 929,
+            "mapLon": 482
+        }
+    ],
+    "olympus-coliseum": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB02",
+            "mapLat": 648,
+            "mapLon": 424
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB0E",
+            "mapLat": 441,
+            "mapLon": 341
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB1A",
+            "mapLat": 379,
+            "mapLon": 338
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB26",
+            "mapLat": 432,
+            "mapLon": 387
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB32",
+            "mapLat": 401,
+            "mapLon": 367
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB3E",
+            "mapLat": 421,
+            "mapLon": 354
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB4A",
+            "mapLat": 291,
+            "mapLon": 281
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB56",
+            "mapLat": 321,
+            "mapLon": 302
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB62",
+            "mapLat": 577,
+            "mapLon": 505
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB6E",
+            "mapLat": 569,
+            "mapLon": 505
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB7A",
+            "mapLat": 584,
+            "mapLon": 476
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB86",
+            "mapLat": 508,
+            "mapLon": 577
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB92",
+            "mapLat": 453,
+            "mapLon": 553
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFB9E",
+            "mapLat": 424,
+            "mapLon": 629
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBAA",
+            "mapLat": 521,
+            "mapLon": 616
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBB6",
+            "mapLat": 369,
+            "mapLon": 664
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBC2",
+            "mapLat": 361,
+            "mapLon": 662
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBCE",
+            "mapLat": 235,
+            "mapLon": 667
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBDA",
+            "mapLat": 261,
+            "mapLon": 673
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Olympus Coliseum",
+            "gameId": "11CDFBE6",
+            "mapLat": 250,
+            "mapLon": 701
+        }
+    ],
+    "agrabah": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF826",
+            "mapLat": 847,
+            "mapLon": 701
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF832",
+            "mapLat": 841,
+            "mapLon": 688
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF83E",
+            "mapLat": 814,
+            "mapLon": 764
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF84A",
+            "mapLat": 850,
+            "mapLon": 649
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF856",
+            "mapLat": 814,
+            "mapLon": 678
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF862",
+            "mapLat": 797,
+            "mapLon": 747
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF86E",
+            "mapLat": 881,
+            "mapLon": 695
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF87A",
+            "mapLat": 708,
+            "mapLon": 788
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF886",
+            "mapLat": 703,
+            "mapLon": 754
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF892",
+            "mapLat": 669,
+            "mapLon": 748
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF89E",
+            "mapLat": 683,
+            "mapLon": 760
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8AA",
+            "mapLat": 678,
+            "mapLon": 773
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8B6",
+            "mapLat": 617,
+            "mapLon": 760
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8C2",
+            "mapLat": 643,
+            "mapLon": 775
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8CE",
+            "mapLat": 160,
+            "mapLon": 800
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8DA",
+            "mapLat": 159,
+            "mapLon": 776
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8E6",
+            "mapLat": 106,
+            "mapLon": 712
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8F2",
+            "mapLat": 57,
+            "mapLon": 698
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF8FE",
+            "mapLat": 57,
+            "mapLon": 729
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF90A",
+            "mapLat": 87,
+            "mapLon": 748
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF916",
+            "mapLat": 202,
+            "mapLon": 436
+        },
+        {
+            "journalId": "3-6",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF922",
+            "mapLat": 202,
+            "mapLon": 476
+        },
+        {
+            "journalId": "3-7",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF92E",
+            "mapLat": 350,
+            "mapLon": 439
+        },
+        {
+            "journalId": "3-8",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF93A",
+            "mapLat": 345,
+            "mapLon": 475
+        },
+        {
+            "journalId": "4-1",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF946",
+            "mapLat": 860,
+            "mapLon": 255
+        },
+        {
+            "journalId": "4-2",
+            "journalWorld": "Agrabah",
+            "gameId": "11CDF952",
+            "mapLat": 860,
+            "mapLon": 280
+        }
+    ],
+    "land-of-dragons": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF72A",
+            "mapLat": 111,
+            "mapLon": 200
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Land of Dragons",
+            "mapLat": 142,
+            "mapLon": 191
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF742",
+            "mapLat": 131,
+            "mapLon": 212
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF74E",
+            "mapLat": 210,
+            "mapLon": 355
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF75A",
+            "mapLat": 170,
+            "mapLon": 358
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF766",
+            "mapLat": 342,
+            "mapLon": 227
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF772",
+            "mapLat": 410,
+            "mapLon": 255
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF77E",
+            "mapLat": 386,
+            "mapLon": 264
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF78A",
+            "mapLat": 345,
+            "mapLon": 274
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF796",
+            "mapLat": 516,
+            "mapLon": 530
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7A2",
+            "mapLat": 550,
+            "mapLon": 534
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7AE",
+            "mapLat": 727,
+            "mapLon": 430
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7BA",
+            "mapLat": 759,
+            "mapLon": 451
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7C6",
+            "mapLat": 675,
+            "mapLon": 780
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7D2",
+            "mapLat": 675,
+            "mapLon": 740
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7DE",
+            "mapLat": 670,
+            "mapLon": 779
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7EA",
+            "mapLat": 670,
+            "mapLon": 741
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF7F6",
+            "mapLat": 662,
+            "mapLon": 787
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF802",
+            "mapLat": 662,
+            "mapLon": 734
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF80E",
+            "mapLat": 675,
+            "mapLon": 761
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Land of Dragons",
+            "gameId": "11CDF81A",
+            "mapLat": 675,
+            "mapLon": 759
+        }
+    ],
+    "100-acre-wood": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA12",
+            "mapLat": 180,
+            "mapLon": 499
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA1E",
+            "mapLat": 224,
+            "mapLon": 472
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA2A",
+            "mapLat": 226,
+            "mapLon": 483
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA36",
+            "mapLat": 371,
+            "mapLon": 125
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA42",
+            "mapLat": 349,
+            "mapLon": 71
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA4E",
+            "mapLat": 329,
+            "mapLon": 71
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA5A",
+            "mapLat": 625,
+            "mapLon": 93
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA66",
+            "mapLat": 600,
+            "mapLon": 68
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA72",
+            "mapLat": 594,
+            "mapLon": 86
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA7E",
+            "mapLat": 482,
+            "mapLon": 401
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA8A",
+            "mapLat": 486,
+            "mapLon": 487
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFA96",
+            "mapLat": 499,
+            "mapLon": 441
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAA2",
+            "mapLat": 584,
+            "mapLon": 857
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAAE",
+            "mapLat": 430,
+            "mapLon": 701
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFABA",
+            "mapLat": 454,
+            "mapLon": 815
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAC6",
+            "mapLat": 481,
+            "mapLon": 751
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAD2",
+            "mapLat": 512,
+            "mapLon": 736
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFADE",
+            "mapLat": 659,
+            "mapLon": 801
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAEA",
+            "mapLat": 191,
+            "mapLon": 694
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "100 Acre Wood",
+            "gameId": "11CDFAF6",
+            "mapLat": 233,
+            "mapLon": 751
+        }
+    ],
+    "pride-lands": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0042",
+            "mapLat": 370,
+            "mapLon": 150
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE004E",
+            "mapLat": 376,
+            "mapLon": 151
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE005A",
+            "mapLat": 398,
+            "mapLon": 128
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0066",
+            "mapLat": 470,
+            "mapLon": 256
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0072",
+            "mapLat": 467,
+            "mapLon": 316
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE007E",
+            "mapLat": 498,
+            "mapLon": 372
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE008A",
+            "mapLat": 373,
+            "mapLon": 286
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0096",
+            "mapLat": 446,
+            "mapLon": 321
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00A2",
+            "mapLat": 698,
+            "mapLon": 407
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00AE",
+            "mapLat": 710,
+            "mapLon": 448
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00BA",
+            "mapLat": 738,
+            "mapLon": 426
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00C6",
+            "mapLat": 412,
+            "mapLon": 500
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00D2",
+            "mapLat": 401,
+            "mapLon": 529
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00DE",
+            "mapLat": 374,
+            "mapLon": 524
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00EA",
+            "mapLat": 392,
+            "mapLon": 496
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE00F6",
+            "mapLat": 345,
+            "mapLon": 558
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0102",
+            "mapLat": 198,
+            "mapLon": 571
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE010E",
+            "mapLat": 155,
+            "mapLon": 559
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE011A",
+            "mapLat": 102,
+            "mapLon": 553
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0126",
+            "mapLat": 53,
+            "mapLon": 698
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0132",
+            "mapLat": 55,
+            "mapLon": 749
+        },
+        {
+            "journalId": "3-6",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE013E",
+            "mapLat": 64,
+            "mapLon": 694
+        },
+        {
+            "journalId": "3-7",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE014A",
+            "mapLat": 125,
+            "mapLon": 883
+        },
+        {
+            "journalId": "3-8",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0156",
+            "mapLat": 164,
+            "mapLon": 873
+        },
+        {
+            "journalId": "4-1",
+            "journalWorld": "Pride Lands",
+            "gameId": "11CE0162",
+            "mapLat": 156,
+            "mapLon": 856
+        }
+    ],
+    "disney-castle": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9B2",
+            "mapLat": 332,
+            "mapLon": 428
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9BE",
+            "mapLat": 335,
+            "mapLon": 381
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9CA",
+            "mapLat": 285,
+            "mapLon": 342
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9D6",
+            "mapLat": 312,
+            "mapLon": 435
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9E2",
+            "mapLat": 279,
+            "mapLon": 394
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9EE",
+            "mapLat": 327,
+            "mapLon": 372
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDF9FA",
+            "mapLat": 377,
+            "mapLon": 349
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Disney Castle",
+            "gameId": "11CDFA06",
+            "mapLat": 496,
+            "mapLon": 93
+        },
+        {
+            "journalId": "1-1",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF95E",
+            "mapLat": 639,
+            "mapLon": 586
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF96A",
+            "mapLat": 686,
+            "mapLon": 603
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF976",
+            "mapLat": 495,
+            "mapLon": 772
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF982",
+            "mapLat": 449,
+            "mapLon": 705
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF98E",
+            "mapLat": 680,
+            "mapLon": 931
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF99A",
+            "mapLat": 707,
+            "mapLon": 956
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Timeless River",
+            "gameId": "11CDF9A6",
+            "mapLat": 631,
+            "mapLon": 892
+        }
+    ],
+    "halloween-town": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFD96",
+            "mapLat": 737,
+            "mapLon": 589
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDA2",
+            "mapLat": 732,
+            "mapLon": 545
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDAE",
+            "mapLat": 967,
+            "mapLon": 484
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDBA",
+            "mapLat": 873,
+            "mapLon": 535
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDC6",
+            "mapLat": 861,
+            "mapLon": 505
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDD2",
+            "mapLat": 590,
+            "mapLon": 561
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDDE",
+            "mapLat": 574,
+            "mapLon": 544
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDEA",
+            "mapLat": 567,
+            "mapLon": 566
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFDF6",
+            "mapLat": 264,
+            "mapLon": 532
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFE02",
+            "mapLat": 298,
+            "mapLon": 555
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFE0E",
+            "mapLat": 262,
+            "mapLon": 569
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFE1A",
+            "mapLat": 255,
+            "mapLon": 543
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFE26",
+            "mapLat": 218,
+            "mapLon": 595
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Halloween Town",
+            "gameId": "11CDFE32",
+            "mapLat": 241,
+            "mapLon": 580
+        }
+    ],
+    "port-royal": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE3E",
+            "mapLat": 221,
+            "mapLon": 640
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE4A",
+            "mapLat": 200,
+            "mapLon": 719
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE56",
+            "mapLat": 224,
+            "mapLon": 700
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE62",
+            "mapLat": 94,
+            "mapLon": 506
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE6E",
+            "mapLat": 48,
+            "mapLon": 492
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE7A",
+            "mapLat": 63,
+            "mapLon": 509
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE86",
+            "mapLat": 98,
+            "mapLon": 489
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE92",
+            "mapLat": 623,
+            "mapLon": 653
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFE9E",
+            "mapLat": 642,
+            "mapLon": 674
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEAA",
+            "mapLat": 791,
+            "mapLon": 746
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEB6",
+            "mapLat": 728,
+            "mapLon": 710
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEC2",
+            "mapLat": 847,
+            "mapLon": 681
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFECE",
+            "mapLat": 880,
+            "mapLon": 680
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEDA",
+            "mapLat": 864,
+            "mapLon": 656
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEE6",
+            "mapLat": 584,
+            "mapLon": 242
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEF2",
+            "mapLat": 480,
+            "mapLon": 464
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFEFE",
+            "mapLat": 517,
+            "mapLon": 435
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFF0A",
+            "mapLat": 480,
+            "mapLon": 444
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFF16",
+            "mapLat": 581,
+            "mapLon": 355
+        },
+        {
+            "journalId": "3-4",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFF22",
+            "mapLat": 557,
+            "mapLon": 386
+        },
+        {
+            "journalId": "3-5",
+            "journalWorld": "Port Royal",
+            "gameId": "11CDFF2E",
+            "mapLat": 577,
+            "mapLon": 407
+        }
+    ],
+    "space-paranoids": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFCEE",
+            "mapLat": 140,
+            "mapLon": 263
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFCFA",
+            "mapLat": 140,
+            "mapLon": 270
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD06",
+            "mapLat": 255,
+            "mapLon": 499
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD12",
+            "mapLat": 121,
+            "mapLon": 489
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD1E",
+            "mapLat": 267,
+            "mapLon": 412
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD2A",
+            "mapLat": 140,
+            "mapLon": 416
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD36",
+            "mapLat": 432,
+            "mapLon": 424
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD42",
+            "mapLat": 432,
+            "mapLon": 417
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD4E",
+            "mapLat": 404,
+            "mapLon": 719
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD5A",
+            "mapLat": 447,
+            "mapLon": 719
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD66",
+            "mapLat": 745,
+            "mapLon": 361
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD72",
+            "mapLat": 736,
+            "mapLon": 367
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD7E",
+            "mapLat": 789,
+            "mapLon": 415
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "Space Paranoids",
+            "gameId": "11CDFD8A",
+            "mapLat": 779,
+            "mapLon": 415
+        }
+    ],
+    "atlantica": [
+
+    ],
+    "the-world-that-never-was": [
+        {
+            "journalId": "1-1",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0402",
+            "mapLat": 275,
+            "mapLon": 263
+        },
+        {
+            "journalId": "1-2",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE040E",
+            "mapLat": 377,
+            "mapLon": 263
+        },
+        {
+            "journalId": "1-3",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE041A",
+            "mapLat": 337,
+            "mapLon": 420
+        },
+        {
+            "journalId": "1-4",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0426",
+            "mapLat": 377,
+            "mapLon": 362
+        },
+        {
+            "journalId": "1-5",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0432",
+            "mapLat": 542,
+            "mapLon": 162
+        },
+        {
+            "journalId": "1-6",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE043E",
+            "mapLat": 547,
+            "mapLon": 247
+        },
+        {
+            "journalId": "1-7",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE044A",
+            "mapLat": 570,
+            "mapLon": 153
+        },
+        {
+            "journalId": "1-8",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0456",
+            "mapLat": 722,
+            "mapLon": 132
+        },
+        {
+            "journalId": "2-1",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0462",
+            "mapLat": 729,
+            "mapLon": 121
+        },
+        {
+            "journalId": "2-2",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE046E",
+            "mapLat": 172,
+            "mapLon": 718
+        },
+        {
+            "journalId": "2-3",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE047A",
+            "mapLat": 107,
+            "mapLon": 714
+        },
+        {
+            "journalId": "2-4",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0486",
+            "mapLat": 321,
+            "mapLon": 711
+        },
+        {
+            "journalId": "2-5",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE0492",
+            "mapLat": 605,
+            "mapLon": 713
+        },
+        {
+            "journalId": "2-6",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE049E",
+            "mapLat": 573,
+            "mapLon": 781
+        },
+        {
+            "journalId": "2-7",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE04AA",
+            "mapLat": 605,
+            "mapLon": 773
+        },
+        {
+            "journalId": "2-8",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE04B6",
+            "mapLat": 758,
+            "mapLon": 705
+        },
+        {
+            "journalId": "3-1",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE04C2",
+            "mapLat": 775,
+            "mapLon": 669
+        },
+        {
+            "journalId": "3-2",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE04CE",
+            "mapLat": 733,
+            "mapLon": 680
+        },
+        {
+            "journalId": "3-3",
+            "journalWorld": "The World that Never Was",
+            "gameId": "11CE04DA",
+            "mapLat": 718,
+            "mapLon": 640
+        }
+    ]
+}

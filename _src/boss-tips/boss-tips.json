@@ -1,0 +1,5 @@
+{
+    "layout": "general-page.njk",
+    "tags": "boss",
+    "permalink": "/boss-tips/{{ pageName | slug }}/index.html"
+}

@@ -1,0 +1,5 @@
+{
+    "layout": "world-page.njk",
+    "tags": "world",
+    "permalink": "/worlds/{{ pageName | slug }}/index.html"
+}

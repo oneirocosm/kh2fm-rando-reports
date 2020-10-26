@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Garden of Assemblage",
+        "overview": "The hubworld for the \"Garden of Assemblage\" Mod.  In the base game, it was originally located at the end of the Cavern of Remembrance in Hollow Bastion/Radiant Garden and gave access to the data battles.  In the mod, it has been repurposed so the boss portals give access to each world, allowing you to travel to each of them without the Gummi Ship.",
+        "checks": []
+    },
+    {
+        "name": "Simulated Twilight Town",
+        "overview": "The world where the base game of Kingdom Hearts 2 begins.  It is home to several children named Roxas, Hayner, Pence, and Olette.  But as they are rounding out their last week of summer vacation, Roxas begins to notice that something seems off.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Twilight Town",
+        "overview": "An original Kingdom Hearts World located somewhere near the edge of Light and Darkness.  Sora, Donald, and Goofy find themselves in this peaceful world with no memory of how they arrived.  But the large Nobody precense suggests the Organization may have a stronghold nearby.  Could this world be hiding more secrets under the surface?  And if so, where will they lead?",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Radiant Garden",
+        "overview": "Also known as Hollow Bastion, this original Kingdom Hearts World that is home to many of the Final Fantasy characters Sora encounters throughout his journeys.  Originally the home to Ansem the Wise and his disciples, this world was plunged into darkness by experiments gone awry.  While Sora was able to restore much of the world, it still has a long way to go until it is completely recovered.  And in addition to the lingering forces of darkness, it would seem the Organization has a hold on this world as well.  Can it possibly survive the clash between the two?",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Beast's Castle",
+        "overview": "The world where the Disney film \"Beauty and the Beast\" takes place.  Following the events of Kingdom Hearts 1, Beast and Belle have returned and are trying to live out peaceful days together.  But Xaldin, an Organization XIII has different plans in mind.  After all, the strong of heart tend to produce powerful nobodies, and Baxets would most certainly be a powerful ally for the Organization.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Olympus Coliseum",
+        "overview": "The world where the Disney film \"Hercules\" takes place.  In the year since Sora last visited, Hercules has found himself pushed to his limits by Hades various attempts at taking over.  It's a tall task, but maybe Sora and his friends have the strength to remind Herc what makes a True Hero.  And maybe they even have the strength to become True Heroes themselves.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Agrabah",
+        "overview": "The world where the Disney film \"Aladdin\" takes place.  Following the events of Kingdom Hearts 1, Aladdin and Jasmine have been hard at work rebuilding their city while Genie has been taking a well-deserved vacation.  But with Pete's heartless and the threat of Jafar's return, it looks as though that may be coming to an end.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "Land of Dragons",
+        "overview": "The world where the Disney film \"Mulan\" takes place.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "gameId": "0"
+            }
+        ]
+    },
+    {
+        "name": "100 Acre Wood",
+        "overview": "This world is home to Winnie the Pooh and his friends.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Pride Lands",
+        "overview": "The world where the Disney film \"The Lion King\" takes place.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Disney Castle",
+        "overview": "This world is the home of many classic Disney characters, including Sora's companions Donald and Goofy.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Halloween Town",
+        "overview": "The world where the Disney film \"The Nightmare Before Christmas\" takes place.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Port Royal",
+        "overview": "The world where the Disney franchise \"Pirates of the Carribean\" takes place.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Space Paranoids",
+        "overview": "The world where the Disney film \"Tron\" takes place.  Well, technically it's a copy of that world, but things play out more-or-less the same.",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    },
+    {
+        "name": "Atlantica",
+        "overview": "The world where the Disney film \"The Little Mermaid\" takes place.",
+        "checks": []
+    },
+    {
+        "name": "The World That Never Was",
+        "overview": "An original Kingdom Hearts world that is home to organization XIII",
+        "checks": [
+            {
+                "type": "bonus",
+                "desc": "thing",
+                "id": "0"
+            }
+        ]
+    }
+]
