@@ -7,9 +7,9 @@ pages:
   stage: deploy
 #  environment:
 #    name: production
-#    url:
+#    url: https://kh2fm-rando-reports.com
   script:
-    - npx eleventy --output=public
+    - npx eleventy --output=public --pathprefix=kh2fm-rando-reports
   cache:
     paths:
       - node_modules/
