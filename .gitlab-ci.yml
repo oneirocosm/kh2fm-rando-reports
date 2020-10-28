@@ -1,0 +1,20 @@
+image: "node:12"
+
+before_script:
+  - npm install
+
+  pages:
+    stage: deploy
+#    environment:
+#      name: production
+#      url:
+    script:
+      - npx eleventy --output=public
+    cache:
+      paths:
+        - node_modules/
+    artifacts:
+      paths:
+        - public
+    only:
+      - master
