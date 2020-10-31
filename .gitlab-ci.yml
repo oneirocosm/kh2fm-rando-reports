@@ -9,7 +9,7 @@ pages:
 #    name: production
 #    url: https://kh2fm-rando-reports.com
   script:
-    - npx eleventy --output=public --pathprefix=kh2fm-rando-reports
+    - npx eleventy
   cache:
     paths:
       - node_modules/
