@@ -1,12 +1,28 @@
 const pluginBetterSlug = require("@borisschapira/eleventy-plugin-better-slug");
 const pluginSass = require("eleventy-plugin-sass");
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
+
 
 const pluginSassSettings = {
     watch: ['_src/**/*.{scss,sass}', '!node_modules/**']
 };
 
-module.exports = (function(eleventyConfig) {
+const markdownItSettings = {
+    html: true,
+    breaks: true,
+    linkify: true,
+};
 
+const markdownItAttrsSettings = {
+    leftDelimiter: "{",
+    rightDelimiter: "}",
+    allowedAttributes: ["class"],
+};
+
+const markdownLib = markdownIt(markdownItSettings).use(markdownItAttrs, markdownItAttrsSettings);
+
+module.exports = (function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("_src/img");
     eleventyConfig.addPassthroughCopy("_src/js");
     eleventyConfig.addPassthroughCopy("_src/css/fonts");
@@ -61,6 +77,8 @@ module.exports = (function(eleventyConfig) {
         }
         return output;
     })
+
+    eleventyConfig.setLibrary("md", markdownLib);
 
     return {
         dir: {
