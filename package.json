@@ -7,13 +7,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@borisschapira/eleventy-plugin-better-slug": "^1.0.1",
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "commitlint": "^11.0.0",
     "eleventy-plugin-sass": "^1.1.1",
+    "husky": "^4.3.7",
     "markdown-it": "^12.0.4",
     "markdown-it-attrs": "^4.0.0"
   },
