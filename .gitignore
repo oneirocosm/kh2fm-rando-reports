@@ -118,3 +118,6 @@ dist
 # eleventy output
 _site
 public
+
+# temp as this will be replaced with new scss
+_src/css/navbar.scss
