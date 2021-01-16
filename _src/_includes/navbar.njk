@@ -1,51 +1,52 @@
-
-<nav aria-label="Navigation Bar">
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li class="dropdown">
-            <!-- javascript goes here -->
-            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
-                Worlds
-            </button>
-            <ul class="dropdown__menu" id="worlds-dropdown">
-                {% for item in collections.world -%}
-                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
-                {% endfor -%}
-            </ul>
-        </li>
-        <li class="dropdown">
-            <!-- javascript goes here -->
-            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
-            Level Checks
-            </button>
-            <ul class="dropdown__menu" id="worlds-dropdown">
-                {% for item in collections.level -%}
-                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
-                {% endfor -%}
-            </ul>
-        </li>
-        <li class="dropdown">
-            <!-- javascript goes here -->
-            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
-            Boss Tips
-            </button>
-            <ul class="dropdown__menu" id="worlds-dropdown">
-                {% for item in collections.boss -%}
-                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
-                {% endfor -%}
-            </ul>
-        </li>
-        <li class="dropdown">
-            <!-- javascript goes here -->
-            <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="worlds-dropdown">
-            General Tips
-            </button>
-            <ul class="dropdown__menu" id="worlds-dropdown">
-                {% for item in collections.general -%}
-                <li><a href="{{ item.url }}">{{ item.data.pageName }}</a></li>
-                {% endfor -%}
-            </ul>
-        </li>
-        <li><a href="/about/">About</a></li>
-    </ul>
-</nav>
+<div class = navigation>
+    <nav class="navigation__nav" aria-label="Navigation Bar">
+        <ul class="navigation__list">
+            <li class="navigation__item"><a class="navigation__link" href="/">Home</a></li>
+            <li class="navigation__item">
+                <!-- javascript goes here -->
+                <button type="button" class="navigation__button" aria-expanded="false" aria-controls="nav-dropdown">
+                    Worlds &raquo;
+                </button>
+                <ul class="navigation__dropdown-list" id="nav-dropdown">
+                    {% for item in collections.world -%}
+                    <li class="navigation__dropdown-item"><a class="navigation__dropdown-link" href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                    {% endfor -%}
+                </ul>
+            </li>
+            <li class="navigation__item">
+                <!-- javascript goes here -->
+                <button type="button" class="navigation__button" aria-expanded="false" aria-controls="nav-dropdown">
+                Level Checks &raquo;
+                </button>
+                <ul class="navigation__dropdown-list" id="nav-dropdown">
+                    {% for item in collections.level -%}
+                    <li class="navigation__dropdown-item"><a class="navigation__dropdown-link" href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                    {% endfor -%}
+                </ul>
+            </li>
+            <li class="navigation__item">
+                <!-- javascript goes here -->
+                <button type="button" class="navigation__button" aria-expanded="false" aria-controls="nav-dropdown">
+                Boss Tips &raquo;
+                </button>
+                <ul class="navigation__dropdown-list" id="nav-dropdown">
+                    {% for item in collections.boss -%}
+                    <li class="navigation__dropdown-item"><a class="navigation__dropdown-link" href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                    {% endfor -%}
+                </ul>
+            </li>
+            <li class="navigation__item">
+                <!-- javascript goes here -->
+                <button type="button" class="navigation__button" aria-expanded="false" aria-controls="nav-dropdown">
+                General Tips &raquo;
+                </button>
+                <ul class="navigation__dropdown-list" id="nav-dropdown">
+                    {% for item in collections.general -%}
+                    <li class="navigation__dropdown-item"><a class="navigation__dropdown-link" href="{{ item.url }}">{{ item.data.pageName }}</a></li>
+                    {% endfor -%}
+                </ul>
+            </li>
+            <li class="navigation__item"><a class="navigation__link" href="/about/">About</a></li>
+        </ul>
+    </nav>
+</div>
