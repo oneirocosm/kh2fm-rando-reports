@@ -9,23 +9,24 @@
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
    crossorigin=""></script>
-        <link rel="stylesheet" href="/css/style.css">
-        <link rel="stylesheet" href="/css/navbar.css">
         <link rel="stylesheet" href="/sass/main.css">
     </head>
     <body tabindex="-1">
         {% include "header.njk" %}
         {% include "navbar.njk" %}
         <main>
-            <h2>{{ pageName }}</h2>
-            <p><em>{{ blurb }}</em></p>
+            <h2 class="heading-secondary">{{ pageName }}</h2>
+            <p class="section-blurb">{{ blurb }}</p>
 
-            <h3>Interactive Map</h3>
-            <div id="map"></div>
-            <script type="text/javascript"> var worldName = "{{ pageName | slug }}"; </script>
-            <script src="/js/map.js"></script>
-
-            {{ content | safe }}
+            <div class="section-markdown">
+                {{ content | safe }}
+            </div>
         <main>
+        <div class="section-map">
+            <h3 class="heading-tertiary">Interactive Map</h3>
+            <div class="map" id="map"></div>
+            <script type="text/javascript"> let worldName = "{{ pageName | slug }}"; </script>
+            <script src="/js/map.js"></script>
+        </div>
     </body>
 </html>

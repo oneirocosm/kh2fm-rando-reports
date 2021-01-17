@@ -1,1 +1,35 @@
 // sass for a normal post
+
+.section-markdown {
+    // markdown will not use classes by default to cut down on boilerplate
+    // if it needs to be overwritten, markdown-it allows classes to be manually added
+    h2 {
+        font-size: 4rem;
+    }
+
+    h3 {
+        font-size: 3rem;
+    }
+
+    h4 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    a {
+        text-decoration: none;
+        color: dodgerblue;
+    }
+
+    ul {
+        font-size: 1.5rem;
+    }
+
+    li {
+        list-style-position: inside;
+        font-size: inherit;
+    }
+}

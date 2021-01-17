@@ -3,18 +3,18 @@
     <head>
         <title>{{ pageName }}</title>
         {% include "head-metadata.njk" %}
-        <link rel="stylesheet" href="/css/style.css">
         <link rel="stylesheet" href="/sass/main.css">
     </head>
     <body tabindex="-1">
         {% include "header.njk" %}
         {% include "navbar.njk" %}
         <main>
-            <h2>{{ pageName }}</h2>
-            <p><em>{{ blurb }}</em></p>
+            <h2 class="heading-secondary">{{ pageName }}</h2>
+            <p class="section-blurb">{{ blurb }}</p>
 
-            {{ content | safe }}
-
+            <div class="section-markdown">
+                {{ content | safe }}
+            </div>
         <main>
     </body>
 </html>
