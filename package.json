@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:js": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:js:fix": "eslint . --ext .js,.jsx --ignore-path .gitignore --fix",
-		"lint:style": "stylelint **/*.scss --ignore-path .gitignore",
-		"lint:style:fix": "stylelint **/*.scss --ignore-path .gitignore --fix"
+    "lint:style": "stylelint **/*.scss --ignore-path .gitignore",
+    "lint:style:fix": "stylelint **/*.scss --ignore-path .gitignore --fix"
   },
   "lint-staged": {
     "*.{js,jsx}": "eslint --ignore-path .gitignore",
@@ -46,7 +46,8 @@
     "prettier": "^2.2.1",
     "stylelint": "^13.8.0",
     "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-standard": "^20.0.0"
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.18.0"
   },
   "dependencies": {}
 }
