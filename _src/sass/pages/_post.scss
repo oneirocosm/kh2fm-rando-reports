@@ -1,35 +1,74 @@
 // sass for a normal post
+.section-blurb {
+    font-style: italic;
+}
 
 .section-markdown {
     // markdown will not use classes by default to cut down on boilerplate
     // if it needs to be overwritten, markdown-it allows classes to be manually added
-    h2 {
-        font-size: 4rem;
-    }
-
     h3 {
         font-size: 3rem;
+        margin-top: 4rem;
+        border-top: 1px solid color-get("white");
     }
 
     h4 {
         font-size: 2rem;
+        margin-top: 2rem;
     }
 
     p {
-        font-size: 1.5rem;
+        font-size: inherit;
     }
 
     a {
         text-decoration: none;
-        color: dodgerblue;
+        color: color-get("dodger-blue");
+        transform: translateY(0);
+
+        &:hover,
+        &:focus {
+            color: shade(color-get("dodger-blue"), 20%);
+            transform: translateY(-2px);
+        }
     }
 
     ul {
-        font-size: 1.5rem;
+        font-size: inherit;
     }
 
     li {
-        list-style-position: inside;
         font-size: inherit;
+        list-style: none;
+        padding-left: 1.6rem;
+        text-indent: -1.6rem;
+
+        &::before {
+            content: "";
+            display: inline-block;
+            background-image: url("/css/svg/kh-heart.svg");
+            background-size: cover;
+            height: 1.1rem;
+            width: 1.1rem;
+            margin-right: 0.5rem;
+
+            
+            @supports (mask-image: url()) {
+                mask-image: url("/css/svg/kh-heart.svg");
+                mask-size: cover;
+                background-color: color-get("silver");
+                background-image: none;
+            }
+        }
+    }
+
+    table {
+        margin: auto;
+        margin-top: 3rem;
+    }
+
+    th,
+    td {
+        padding: 0.1rem 0.7rem;
     }
 }

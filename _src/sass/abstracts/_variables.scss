@@ -1,1 +1,13 @@
 // file to hold sass variables
+
+$colors-base: (
+    "white": rgb(255, 255, 255),
+    "black": rgb(0, 0, 0),
+    "cod-gray": rgb(18, 18, 18),
+    "silver": rgb(189, 189, 189),
+    "mine-shaft": rgb(33, 33, 33),
+    "emperor": rgb(81, 81, 81),
+    "dodger-blue": rgb(71, 199, 255),
+);
+
+$nav-transition: 280ms all 120ms ease-out;

@@ -1,16 +1,16 @@
 // sass file for typography
 body {
   font-family: "Titillium Web", sans-serif;
-  font-size: 1.2rem;
-  background-color: #121212;
-  color: #BDBDBD;
+  font-size: 1.7rem;
+  background-color: color-get("cod-gray");
+  color: color-get("silver");
 }
 
 .heading-primary {
   font-family: "KH Logo", sans-serif;
   font-size: 8rem;
   text-align: center;
-  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+  text-shadow: -1px -1px 0 color-get("black"), 1px -1px 0 color-get("black"), -1px 1px 0 color-get("black"), 1px 1px 0 color-get("black");
 }
 
 .heading-primary--main {
@@ -23,7 +23,8 @@ body {
 }
 
 .heading-secondary {
-    font-size: 4rem;
+    font-size: 6rem;
+    margin-top: 4rem;
 }
 
 .heading-tertiary {

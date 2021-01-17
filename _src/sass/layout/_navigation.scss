@@ -1,21 +1,18 @@
 // sass details for navigation bar
-$transition: 280ms all 120ms ease-out;
-$nav-color-primary: #212121;
-$nav-color-secondary: scale-color($nav-color-primary, $lightness: -30%);
 
 .navigation {
     font-size: 2rem;
 }
 
 .navigation__nav {
-    background-color: $nav-color-primary;
+    background-color: color-get("mine-shaft");
     padding: 0 1rem;
     position: relative;
     top: 0;
     display: grid;
     place-items: center;
     z-index: 1000;
-    box-shadow: 0 0.5rem 0.2rem black;
+    box-shadow: 0 0.5rem 0.2rem color-get("black");
 }
 
 .navigation__list {
@@ -27,36 +24,36 @@ $nav-color-secondary: scale-color($nav-color-primary, $lightness: -30%);
 .navigation__dropdown-list {
     // was dropdown__menu
     list-style: none;
-    background-color: #515151;
+    background-color: color-get("emperor");
     border-radius: 4px;
-    box-shadow: 0 0.15rem 0.25rem rgba(black, 0.25);
+    box-shadow: 0 0.15rem 0.25rem rgba(color-get("black"), 0.25);
     padding: 0.5rem 0;
     min-width: 30ch;
     position: absolute;
     top: calc(100% - 0.25rem);
     left: 50%;
-    transition: $transition;
+    transition: $nav-transition;
     transform-origin: top center;
     transform: rotateX(-90deg) translateX(-50%);
     opacity: 0.3;
 }
 
 .navigation__dropdown-link {
-    color: #bdbdbd;
+    color: color-get("silver");
     display: block;
     padding: 0.5em;
     opacity: 0;
-    transition: $transition;
+    transition: $nav-transition;
 
     &:hover {
-        background-color: rgba($nav-color-primary, 0.15);
-        color: dodgerblue;
+        background-color: rgba(color-get("mine-shaft"), 0.15);
+        color: color-get("dodger-blue");
     }
 
     &:focus {
         outline: none;
-        background-color: rgba($nav-color-primary, 0.25);
-        color: dodgerblue;
+        background-color: rgba(color-get("mine-shaft"), 0.25);
+        color: color-get("dodger-blue");
     }
 
     &:link,
@@ -69,26 +66,26 @@ $nav-color-secondary: scale-color($nav-color-primary, $lightness: -30%);
     // dropdown in original
     margin: 0 0.5rem;
     position: relative;
-    color: #bdbdbd;
+    color: color-get("silver");
     border-top: 0.5rem solid transparent;
-    transition: $transition;
+    transition: $nav-transition;
 
     &::after {
         content: "";
         border: 0.5rem solid transparent;
-        border-bottom-color: #fff;
+        border-bottom-color: color-get("white");
         position: absolute;
         top: calc(100% - 1.25rem);
         left: 50%;
         transform: translateX(-50%);
-        transition: $transition;
+        transition: $nav-transition;
         opacity: 0;
         will-change: opacity;
     }
 
     &:hover,
     &:focus-within {
-        border-top-color: dodgerblue;
+        border-top-color: color-get("dodger-blue");
 
         .navigation__dropdown-list {
             opacity: 1;
@@ -117,7 +114,7 @@ $nav-color-secondary: scale-color($nav-color-primary, $lightness: -30%);
 
     &:hover,
     &focus {
-        color: dodgerblue;
+        color: color-get("dodger-blue");
     }
 }
 
@@ -126,19 +123,19 @@ $nav-color-secondary: scale-color($nav-color-primary, $lightness: -30%);
 }
 
 .navigation__link {
-    color: #bdbdbd;
+    color: color-get("silver");
     display: block;
     padding: 0.5em;
 
     &:hover {
-        background-color: rgba($nav-color-primary, 0.15);
-        color: dodgerblue;
+        background-color: rgba(color-get("mine-shaft"), 0.15);
+        color: color-get("dodger-blue");
     }
 
     &:focus {
         outline: none;
-        background-color: rgba($nav-color-primary, 0.25);
-        color: dodgerblue;
+        background-color: rgba(color-get("mine-shaft"), 0.25);
+        color: color-get("dodger-blue");
     }
 
     &:link,
