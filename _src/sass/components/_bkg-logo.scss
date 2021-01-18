@@ -1,0 +1,23 @@
+.bkg-logo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100vh;
+    width: 100vh;
+    z-index: -1;
+
+    // sticky position is adding unwanted space.  need to figure out how to fix this
+
+    /* @supports (position: sticky) {
+        position: sticky;
+        top: 15rem;
+        transform: translateX(-50%);
+    } */
+}
+
+.bkg-logo__icon {
+    height: 100vh;
+    width: 100vh;
+    fill: rgba(color-get("white"), 0.1);
+}

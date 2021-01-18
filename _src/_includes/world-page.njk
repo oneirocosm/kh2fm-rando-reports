@@ -12,21 +12,28 @@
         <link rel="stylesheet" href="/sass/main.css">
     </head>
     <body tabindex="-1">
-        {% include "header.njk" %}
-        {% include "navbar.njk" %}
-        <main>
-            <h2 class="heading-secondary">{{ pageName }}</h2>
-            <p class="section-blurb">{{ blurb }}</p>
-
-            <div class="section-markdown">
-                {{ content | safe }}
+        <div class="container">
+            {% include "header.njk" %}
+            {% include "navbar.njk" %}
+            <div class="bkg-logo">
+                <svg class="bkg-logo__icon">
+                    <use xlink:href="/img/sprite.svg#kh-world-{{ pageName | slug }}"></use>
+                </svg>
             </div>
-        <main>
-        <div class="section-map">
-            <h3 class="heading-tertiary">Interactive Map</h3>
-            <div class="map" id="map"></div>
-            <script type="text/javascript"> let worldName = "{{ pageName | slug }}"; </script>
-            <script src="/js/map.js"></script>
+            <main class="post-content">
+                <h2 class="heading-secondary">{{ pageName }}</h2>
+                <p class="section-blurb">{{ blurb }}</p>
+
+                <div class="section-markdown">
+                    {{ content | safe }}
+                </div>
+            <main>
+            <div class="section-map">
+                <h3 class="heading-tertiary">Interactive Map</h3>
+                <div class="map" id="map"></div>
+                <script type="text/javascript"> let worldName = "{{ pageName | slug }}"; </script>
+                <script src="/js/map.js"></script>
+            </div>
         </div>
     </body>
 </html>
