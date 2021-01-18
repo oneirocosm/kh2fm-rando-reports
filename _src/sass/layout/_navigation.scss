@@ -1,5 +1,3 @@
-// sass details for navigation bar
-
 .navigation {
     font-size: 2rem;
 }
@@ -9,26 +7,22 @@
     padding: 0 1rem;
     position: relative;
     top: 0;
-    display: grid;
-    place-items: center;
     z-index: 1000;
     box-shadow: 0 0.5rem 0.2rem color-get("black");
 }
 
 .navigation__list {
     list-style: none;
-    display: grid;
-    grid-auto-flow: column;
+    display: flex;
+    justify-content: center;
 }
 
 .navigation__dropdown-list {
-    // was dropdown__menu
     list-style: none;
     background-color: color-get("emperor");
     border-radius: 4px;
     box-shadow: 0 0.15rem 0.25rem rgba(color-get("black"), 0.25);
     padding: 0.5rem 0;
-    min-width: 30ch;
     position: absolute;
     top: calc(100% - 0.25rem);
     left: 50%;
@@ -36,6 +30,9 @@
     transform-origin: top center;
     transform: rotateX(-90deg) translateX(-50%);
     opacity: 0.3;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
 }
 
 .navigation__dropdown-link {
@@ -63,7 +60,6 @@
 }
 
 .navigation__item {
-    // dropdown in original
     margin: 0 0.5rem;
     position: relative;
     color: color-get("silver");
@@ -100,14 +96,13 @@
 }
 
 .navigation__button {
-    // was dropdown__button
-        padding: 1rem 0.5rem;
+    padding: 1rem 0.5rem;
     background-color: transparent;
     border: none;
     font-family: inherit;
     color: inherit;
     font-size: inherit;
-    display: inline-flex;
+    display: flex;
     align-items: center;
     cursor: pointer;
     text-align: center;
@@ -120,6 +115,9 @@
 
 .navigation__dropdown-item {
     padding: 0;
+    margin: 0;
+    line-height: 1.2;
+    white-space: nowrap;
 }
 
 .navigation__link {
